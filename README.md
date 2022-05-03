@@ -7,12 +7,9 @@ Moonbeam is a fully Ethereum-Compatible Environment on Polkadot. Moonbeam is muc
 ## What's Polkadot?
 Polkadot is a Layer 0 protocol designed to enable interoperability amongst the hetereogenous L1 blockchains that run on top of it. Polkadot provides the security, governance, and cross chain communication to enable seamless interoperability between parachains, or L1 blockchains that serve various specialized use cases. Moonbeam is a Polkadot parachain. 
 
-## Meet the Networks
-* **Moonbeam** - Mainnet, operating as a parachain on the Polkadot Relay Chain
-* **Moonriver** - Canary network, or experimental mainnet. Moonriver is a parachain on the Kusama Relay Chain
-* **Moonbase Alpha** - The public testnet for Moonbeam and Moonriver
+## Meet the Networks (and block explorers)
+* **<a href="https://moonscan.io/" target="_blank">Moonbeam</a>** - Mainnet, operating as a parachain on the Polkadot Relay Chain
+* **<a href="https://moonriver.moonscan.io/" target="_blank">Moonriver</a>** - Canary network, or experimental mainnet. Moonriver is a parachain on the Kusama Relay Chain
+* **<a href="https://moonbase.moonscan.io/" target="_blank">Moonbase Alpha</a>** - The public testnet for Moonbeam and Moonriver
 
 ## Block Explorers
-* [Moonbeam](https://moonscan.io/)
-* [Moonriver](https://moonriver.moonscan.io/)
-* [Moonbase Alpha](https://moonbase.moonscan.io/)
