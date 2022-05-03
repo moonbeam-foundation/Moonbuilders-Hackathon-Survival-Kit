@@ -38,3 +38,8 @@ Chainlink price feeds are a critical piece of infrastructure of many DeFi applic
 * Is the data being fetched programmatically? You can see the [current total supply information here for all of the cross chain assets on Moonriver](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fmoonriver.api.onfinality.io%2Fpublic-ws#/assets). 
 * The best submissions will integrate additional data such as total supply on origin chain, and other statistics of their choice.
 * There’s not much time to design a pretty interface so we’re not expecting anything fancy. But a clean UI or innovative approach to displaying this information is a major plus. 
+
+## Helpful Resources
+* Moonbeam Documentation Site: https://docs.moonbeam.network/ 
+* Moonbuilders Academy: https://academy.moonbeam.network/ 
+* Developer Hub at Discord: https://discord.gg/moonbeam
