@@ -14,12 +14,15 @@ Polkadot is a Layer 0 protocol designed to enable interoperability amongst the h
 * **<a href="https://moonriver.moonscan.io/" target="_blank">Moonriver</a>** - Canary network, or experimental mainnet. Moonriver is a parachain on the Kusama Relay Chain
 * **<a href="https://moonbase.moonscan.io/" target="_blank">Moonbase Alpha</a>** - The public testnet for Moonbeam and Moonriver. You can get testnet tokens in the [#Moonbase-Faucet Channel on Moonbeam's Discord](https://discord.gg/9RYqehSWRv).
 
-## Introducing Moonbeam's 2022 MIT Bitcoin Expo Bounties
+## 🎥 Introducing Moonbeam's 2022 MIT Bitcoin Expo Bounties
+In the below video, Kevin introduces the 2022 Bounties including the challenge descriptions, expectations, and prizes. 
 [![Introductory Video](https://img.youtube.com/vi/Vbz3ONOyFmg/hqdefault.jpg)](https://youtu.be/Vbz3ONOyFmg)
 
 ### Challenge #1: Build an App with [Moonriver's Chainlink Price Feeds](https://docs.moonbeam.network/builders/integrations/oracles/chainlink/)
 Chainlink price feeds are a critical piece of infrastructure of many DeFi applications. The Moonbeam Docs Site has detailed documentation on how you can [easily integrate chainlink price data into your application](https://docs.moonbeam.network/builders/integrations/oracles/chainlink/). The challenge here is simply to use Chainlink price data as a valuable component of your application. You can also checkout the below video guide showing you how to interact with Chainlink price feeds through [AggregatorV3Interface.sol](https://github.com/smartcontractkit/chainlink/blob/develop/contracts/src/v0.8/interfaces/AggregatorV3Interface.sol):
 
+#### 🎥 How to Interact with Chainlink Price Feeds
+In the below video, you'll learn how to fetch price data from Chainlink price feeds on Moonriver and Moonbase Alpha (the public testnet).
 [![Chainlink Price Feeds](https://img.youtube.com/vi/esmeaoQzj_8/hqdefault.jpg)](https://youtu.be/esmeaoQzj_8)
 
 #### Rewards:
@@ -34,7 +37,7 @@ Chainlink price feeds are a critical piece of infrastructure of many DeFi applic
 ### Challenge #2: Build an App that Displays the Supply of Cross Chain Assets on Moonriver
 [XC-20s](https://docs.moonbeam.network/builders/xcm/xc20/) are Substrate assets that can be transferred cross chain via XCM that also conform to ERC-20 standards. [xcKSM](https://moonriver.moonscan.io/token/0xffffffff1fcacbd218edc0eba20fc2308c778080), or KSM migrated from the Kusama Relay Chain, was the first XC-20 to launch on Moonriver. The challenge here is to build an app that shows cross chain asset statistics, including the supply of each cross chain asset on Moonriver. Under the network -> Assets tab of PolkadotJsApps, you can find a list of all [XC assets on Moonriver and their current supply on Moonriver](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fmoonriver.api.onfinality.io%2Fpublic-ws#/assets). You can also [fetch this data programmatically via the Polkadot API](https://docs.google.com/document/d/14yFV_vYCdgdDIy46OH6ZQwSBHy3ImrZpF9FGPFVWZXE/edit?usp=sharing). The best projects will feature additional statistics, such as supply on origin chain, total outstanding supply, % of supply migrated to Moonriver, etc. 
 
-#### 🛠 How to Fetch the Supply of Cross Chain Assets:
+#### 🎥 How to Fetch the Supply of Cross Chain Assets:
 In the below video, you'll learn how to interact with Polkadot Js Apps and how to query the Polkadot API to get the current supply of cross chain assets on Moonriver:
 
 [![Fetch the supply of assets](https://img.youtube.com/vi/9QOdPBcT-ys/hqdefault.jpg)](https://youtu.be/9QOdPBcT-ys)
