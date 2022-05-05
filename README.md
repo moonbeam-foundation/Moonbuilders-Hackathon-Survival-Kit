@@ -12,7 +12,7 @@ Polkadot is a Layer 0 protocol designed to enable interoperability amongst the h
 ## Meet the Networks (and block explorers)
 * **<a href="https://moonscan.io/" target="_blank">Moonbeam</a>** - Mainnet, operating as a parachain on the Polkadot Relay Chain
 * **<a href="https://moonriver.moonscan.io/" target="_blank">Moonriver</a>** - Canary network, or experimental mainnet. Moonriver is a parachain on the Kusama Relay Chain
-* **<a href="https://moonbase.moonscan.io/" target="_blank">Moonbase Alpha</a>** - The public testnet for Moonbeam and Moonriver
+* **<a href="https://moonbase.moonscan.io/" target="_blank">Moonbase Alpha</a>** - The public testnet for Moonbeam and Moonriver. You can get testnet tokens in the [#Moonbase-Faucet Channel on Moonbeam's Discord](https://discord.gg/9RYqehSWRv).
 
 ## Introducing Moonbeam's 2022 MIT Bitcoin Expo Bounties
 [![Introductory Video](https://img.youtube.com/vi/Vbz3ONOyFmg/hqdefault.jpg)](https://youtu.be/Vbz3ONOyFmg)
