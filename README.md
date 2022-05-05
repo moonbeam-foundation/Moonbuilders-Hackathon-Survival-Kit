@@ -34,6 +34,9 @@ Chainlink price feeds are a critical piece of infrastructure of many DeFi applic
 ### Challenge #2: Build an App that Displays the Supply of Cross Chain Assets on Moonriver
 [XC-20s](https://docs.moonbeam.network/builders/xcm/xc20/) are Substrate assets that can be transferred cross chain via XCM that also conform to ERC-20 standards. [xcKSM](https://moonriver.moonscan.io/token/0xffffffff1fcacbd218edc0eba20fc2308c778080), or KSM migrated from the Kusama Relay Chain, was the first XC-20 to launch on Moonriver. The challenge here is to build an app that shows cross chain asset statistics, including the supply of each cross chain asset on Moonriver. Under the network -> Assets tab of PolkadotJsApps, you can find a list of all [XC assets on Moonriver and their current supply on Moonriver](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fmoonriver.api.onfinality.io%2Fpublic-ws#/assets). You can also [fetch this data programmatically via the Polkadot API](https://docs.google.com/document/d/14yFV_vYCdgdDIy46OH6ZQwSBHy3ImrZpF9FGPFVWZXE/edit?usp=sharing). The best projects will feature additional statistics, such as supply on origin chain, total outstanding supply, % of supply migrated to Moonriver, etc. 
 
+#### 🛠 How to Fetch the Supply of Cross Chain Assets:
+
+
 #### Rewards:
 * 1st place: 1,000 USDT 
 * 2nd place: 500 USDT
