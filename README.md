@@ -39,7 +39,7 @@ Chainlink price feeds are a critical piece of infrastructure of many DeFi applic
 * 2nd place: 500 USDT
 
 #### Evaluation Criteria: 
-* At a minimum the project should consider at least one cross chain asset on Moonriver. Given the incremental nature of adding other assets, we expect submissions to attempt to list all cross chain assets (there are 8 at the time of writing). 
+* At a minimum the project should consider at least one cross chain asset on Moonriver. Given the incremental nature of adding other assets, we expect submissions to attempt to list all cross chain assets (there are 10 at the time of writing). 
 * Is the data being fetched programmatically? You can see the [current total supply information here for all of the cross chain assets on Moonriver](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fmoonriver.api.onfinality.io%2Fpublic-ws#/assets). 
 * The best submissions will integrate additional data such as total supply on origin chain, and other statistics of their choice.
 * There’s not much time to design a pretty interface so we’re not expecting anything fancy. But a clean UI or innovative approach to displaying this information is a major plus. 
