@@ -15,7 +15,8 @@ Polkadot is a Layer 0 protocol designed to enable interoperability amongst the h
 * **<a href="https://moonbase.moonscan.io/" target="_blank">Moonbase Alpha</a>** - The public testnet for Moonbeam and Moonriver. You can get testnet tokens in the [#Moonbase-Faucet Channel on Moonbeam's Discord](https://discord.gg/9RYqehSWRv).
 
 ## 🎥 Introducing Moonbeam's 2022 MIT Bitcoin Expo Bounties
-In the below video, Kevin introduces the 2022 Bounties including the challenge descriptions, expectations, and prizes. 
+In the below video, Kevin introduces the 2022 Bounties including the challenge descriptions, expectations, and prizes.
+
 [![Introductory Video](https://img.youtube.com/vi/Vbz3ONOyFmg/hqdefault.jpg)](https://youtu.be/Vbz3ONOyFmg)
 
 ### Challenge #1: Build an App with [Moonriver's Chainlink Price Feeds](https://docs.moonbeam.network/builders/integrations/oracles/chainlink/)
@@ -23,6 +24,7 @@ Chainlink price feeds are a critical piece of infrastructure of many DeFi applic
 
 #### 🎥 How to Interact with Chainlink Price Feeds
 In the below video, you'll learn how to fetch price data from Chainlink price feeds on Moonriver and Moonbase Alpha (the public testnet).
+
 [![Chainlink Price Feeds](https://img.youtube.com/vi/esmeaoQzj_8/hqdefault.jpg)](https://youtu.be/esmeaoQzj_8)
 
 #### Rewards:
