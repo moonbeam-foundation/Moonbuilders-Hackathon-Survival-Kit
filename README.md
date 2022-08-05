@@ -38,14 +38,6 @@ The purpose of this bounty is to build a cross chain DApp that uses Axelar’s G
 * Moonbeam Docs: https://docs.moonbeam.network/
 * Getting Started with the Moonbase Alpha Testnet: https://docs.moonbeam.network/builders/get-started/networks/moonbase/
 
-#### Judging Criteria
-Submissions will be judged based on 3 categories:
-
-* Technical Complexity - High scoring submissions in this category may demonstrate impressive technical skill and quality of implementation.
-* User Experience and Design - Can you abstract away complex cross-chain concepts into a simple and intuitive experience for the end user?
-* Cross-Chain Interoperability- Does your application contribute to a cross-chain connected future? The highest scoring submissions in this category will be built with interoperability in mind.
-
-
 ### Bounty #2: Use a Moonbeam Precompile
 Moonbeam’s precompiles enable you to harness the power of Polkadot via easy-to-use solidity interfaces. These precompiles expose substrate native functionality such as on-chain governance, cross-chain transfers via XCM, staking, and more. They expose these powerful features using the Ethereum API at precompiled contract addresses. Those addresses, as well as tutorials for interacting with them can be found here on the Moonbeam docs site: https://docs.moonbeam.network/builders/build/canonical-contracts/precompiles/
 
@@ -65,11 +57,13 @@ The bounty can be “stacked” with bounties from other teams. A project that i
 * Precompiled Contracts: https://docs.moonbeam.network/builders/build/canonical-contracts/precompiles/
 * Getting Started with Moonbeam Precompiles Workshop: https://youtu.be/mnqAbuQg-zw
 
-#### Judging Criteria
+### Judging Criteria
 Submissions will be judged based on 3 categories:
+
 * Technical Complexity - High scoring submissions in this category may demonstrate impressive technical skill and quality of implementation.
 * User Experience and Design - Can you abstract away complex cross-chain concepts into a simple and intuitive experience for the end user?
-* Creativity and Value Proposition - Are you making something users want? The highest scoring submissions in this category will be creative solutions that fulfill the needs of their users. Copy / paste deployments from other chains will be ranked lower in this category.
+* *For the Cross-Chain Bounty Only*: Cross-Chain Interoperability- Does your application contribute to a cross-chain connected future? The highest scoring submissions in this category will be built with interoperability in mind.
+* *For the Precompile Bounty Only*: Creativity and Value Proposition - Are you making something users want? The highest scoring submissions in this category will be creative solutions that fulfill the needs of their users. Copy / paste deployments from other chains will be ranked lower in this category.
 
 [![Chainlink Price Feeds](https://img.youtube.com/vi/esmeaoQzj_8/hqdefault.jpg)](https://youtu.be/esmeaoQzj_8)
 
