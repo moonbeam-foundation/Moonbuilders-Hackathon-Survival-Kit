@@ -17,7 +17,7 @@ Polkadot is a Layer 0 protocol designed to enable interoperability amongst the h
 ## Moonbase Alpha Faucet
 * You can get [DEV testnet tokens here](https://apps.moonbeam.network/moonbase-alpha/faucet/).
 * You can make a swap for [testnet cross chain assets here](https://moonbeam-swap.netlify.app/#/swap).
-* If you need more tokens in bulk for testing purposes don't hesitate to reach out to us in [Discord](https://discord.gg/moonbeam/).
+* If you need more tokens in bulk for testing purposes don't hesitate to reach out to us in [Discord](https://discord.gg/moonbeam).
 
 
 ## 🎥 Introducing Moonbeam's 2022 MIT Bitcoin Expo Bounties
