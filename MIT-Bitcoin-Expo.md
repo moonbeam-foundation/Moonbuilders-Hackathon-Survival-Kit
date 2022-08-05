@@ -39,6 +39,21 @@ In the below video, you'll learn how to fetch price data from Chainlink price fe
 ### Challenge #2: Build an App that Displays the Supply of Cross Chain Assets on Moonriver
 [XC-20s](https://docs.moonbeam.network/builders/xcm/xc20/) are Substrate assets that can be transferred cross chain via XCM that also conform to ERC-20 standards. [xcKSM](https://moonriver.moonscan.io/token/0xffffffff1fcacbd218edc0eba20fc2308c778080), or KSM migrated from the Kusama Relay Chain, was the first XC-20 to launch on Moonriver. The challenge here is to build an app that shows cross chain asset statistics, including the supply of each cross chain asset on Moonriver. Under the network -> Assets tab of PolkadotJsApps, you can find a list of all [XC assets on Moonriver and their current supply on Moonriver](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fmoonriver.api.onfinality.io%2Fpublic-ws#/assets). You can also [fetch this data programmatically via the Polkadot API](https://docs.google.com/document/d/14yFV_vYCdgdDIy46OH6ZQwSBHy3ImrZpF9FGPFVWZXE/edit?usp=sharing). The best projects will feature additional statistics, such as supply on origin chain, total outstanding supply, % of supply migrated to Moonriver, etc. 
 
+#### 🎥 How to Fetch the Supply of Cross Chain Assets:
+In the below video, you'll learn how to interact with Polkadot Js Apps and how to query the Polkadot API to get the current supply of cross chain assets on Moonriver:
+
+[![Fetch the supply of assets](https://img.youtube.com/vi/9QOdPBcT-ys/hqdefault.jpg)](https://youtu.be/9QOdPBcT-ys)
+
+#### Rewards:
+* 1st place: 1,000 USDT 
+* 2nd place: 500 USDT
+
+#### Evaluation Criteria: 
+* At a minimum the project should consider at least one cross chain asset on Moonriver. Given the incremental nature of adding other assets, we expect submissions to attempt to list all cross chain assets (there are 10 at the time of writing). 
+* Is the data being fetched programmatically? You can see the [current total supply information here for all of the cross chain assets on Moonriver](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fmoonriver.api.onfinality.io%2Fpublic-ws#/assets). 
+* The best submissions will integrate additional data such as total supply on origin chain, and other statistics of their choice.
+* There’s not much time to design a pretty interface so we’re not expecting anything fancy. But a clean UI or innovative approach to displaying this information is a major plus. 
+
 ## Helpful Resources
 * Moonbeam Documentation Site: https://docs.moonbeam.network/ 
 * Moonbuilders Academy: https://academy.moonbeam.network/ 
