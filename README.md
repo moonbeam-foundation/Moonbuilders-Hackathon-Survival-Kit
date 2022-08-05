@@ -58,7 +58,7 @@ The bounty can be “stacked” with bounties from other teams. A project that i
 * Getting Started with Moonbeam Precompiles Workshop: https://youtu.be/mnqAbuQg-zw
 
 ### Judging Criteria
-Submissions will be judged based on 3 categories:
+Each submissions will be judged based on 3 categories:
 
 * Technical Complexity - High scoring submissions in this category may demonstrate impressive technical skill and quality of implementation.
 * User Experience and Design - Can you abstract away complex cross-chain concepts into a simple and intuitive experience for the end user?
