@@ -65,8 +65,6 @@ Each submissions will be judged based on 3 categories:
 * *For the Cross-Chain Bounty Only*: Cross-Chain Interoperability- Does your application contribute to a cross-chain connected future? The highest scoring submissions in this category will be built with interoperability in mind.
 * *For the Precompile Bounty Only*: Creativity and Value Proposition - Are you making something users want? The highest scoring submissions in this category will be creative solutions that fulfill the needs of their users. Copy / paste deployments from other chains will be ranked lower in this category.
 
-[![Chainlink Price Feeds](https://img.youtube.com/vi/esmeaoQzj_8/hqdefault.jpg)](https://youtu.be/esmeaoQzj_8)
-
 ### General Helpful Resources
 * Moonbeam Documentation Site: https://docs.moonbeam.network/ 
 * Moonbuilders Academy: https://academy.moonbeam.network/ 
