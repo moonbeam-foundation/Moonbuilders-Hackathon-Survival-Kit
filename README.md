@@ -3,6 +3,9 @@ Everything you need to get started building on Moonbeam, optimized for builders
 
 ![Banner Image](https://i.ibb.co/B41kxjv/Twitter-Post-Hackathon-Graphic.png)
 
+## Workshops
+* [Hackathon Kickoff](https://www.crowdcast.io/e/connected-contracts/1) - Thursday, August 18th at 1pm EST: Hear from speakers from the Moonbeam Foundation, Axelar, and Arrington Capital. We'll explain the bounties, discuss sample projects, and review hackathon logistics. 
+
 ## What's Moonbeam?
 Moonbeam is is the smart contract platform for cross-chain connected applications, which offer superior user experiences by unifying access to users, assets, and services across any existing blockchain. Moonbeam is a fully Ethereum-Compatible Layer-1 blockchain (also known as a *Parachain*) on Polkadot.
 
