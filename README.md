@@ -4,7 +4,7 @@ Everything you need to get started building on Moonbeam, optimized for builders
 ![Banner Image](https://i.ibb.co/GnvpLcw/Featured-Images-4.png)
 
 ## What's Moonbeam?
-Moonbeam is a platform for cross-chain connected applications that unites assets and functionality from many blockchains. Moonbeam is a fully Ethereum-Compatible Layer-1 blockchain (also known as a *Parachain*) on Polkadot.
+Moonbeam is is the smart contract platform for cross-chain connected applications, which offer superior user experiences by unifying access to users, assets, and services across any existing blockchain. Moonbeam is a fully Ethereum-Compatible Layer-1 blockchain (also known as a *Parachain*) on Polkadot.
 
 ## What's Polkadot?
 Polkadot is a Layer 0 protocol designed to enable interoperability amongst the hetereogenous L1 blockchains that run on top of it. Polkadot provides the security, governance, and cross chain communication to enable seamless interoperability between parachains, or L1 blockchains that serve various specialized use cases. Moonbeam is a Polkadot parachain. 
@@ -19,19 +19,10 @@ Polkadot is a Layer 0 protocol designed to enable interoperability amongst the h
 * You can make a swap for [testnet cross chain assets here](https://moonbeam-swap.netlify.app/#/swap).
 * If you need more tokens in bulk for testing purposes don't hesitate to reach out to us in [Discord](https://discord.gg/moonbeam).
 
-## 🎥 Introducing Moonbeam's 2022 EthToronto Bounties
+## 🎥 Bounty Details
+You can find the full bounty details here for the $55,000 of total prizes on the [hackathon website](https://moonbeam.devpost.com/details/category-details)
 
-### Bounty #1: Build a Cross-Chain DApp using Axelar
-The purpose of this bounty is to build a cross chain DApp that uses Axelar’s General Message Passing. Moonbeam is collaborating with Axelar to advance this vision of Connected Contracts, allowing you to interact with any contract on any chain. Examples of connected contracts include cross-chain governance actions, aggregated liquidity, or simply calling a contract on a remote chain. The bounty can be “stacked” with bounties from other teams. A project that includes any cross-chain functionality enabled by Axelar’s general message passing and has a contract deployed to a Moonbeam network is eligible for this bounty.
 
-#### Rewards:
-* 1st place: $2,500
-* 2nd place: $1,000
-
-#### Requirements:
-* Github Repo - Some code is required. No pitch deck submissions please.
-* ReadMe with steps to build app or a link to a public deployment.
-* Any smart contracts should be deployed to at least one Moonbeam network (Moonbeam, Moonriver or the Moonbase Alpha testnet).
 
 #### Resources:
 * About Axelar: https://axelar.network/axelar-is-expanding-to-polkadot-by-integrating-with-the-moonbeam-network
@@ -39,18 +30,7 @@ The purpose of this bounty is to build a cross chain DApp that uses Axelar’s G
 * Getting Started with the Moonbase Alpha Testnet: https://docs.moonbeam.network/builders/get-started/networks/moonbase/
 
 ### Bounty #2: Use a Moonbeam Precompile
-Moonbeam’s precompiles enable you to harness the power of Polkadot via easy-to-use solidity interfaces. These precompiles expose substrate native functionality such as on-chain governance, cross-chain transfers via XCM, staking, and more. They expose these powerful features using the Ethereum API at precompiled contract addresses. Those addresses, as well as tutorials for interacting with them can be found here on the Moonbeam docs site: https://docs.moonbeam.network/builders/build/canonical-contracts/precompiles/
 
-The bounty can be “stacked” with bounties from other teams. A project that includes functionality from any Moonbeam precompile and has a contract deployed to a Moonbeam network is eligible for this bounty.
-
-#### Rewards:
-* 1st place: $1,000
-* 2nd place: $500
-
-#### Requirements:
-* Github Repo - Some code is required. No pitch deck submissions please.
-* ReadMe with steps to build app or a link to a public deployment.
-* Any smart contracts should be deployed to at least one Moonbeam network (Moonbeam, Moonriver or the Moonbase Alpha testnet).
 
 #### Resources:
 * Moonbeam Docs: https://docs.moonbeam.network/
