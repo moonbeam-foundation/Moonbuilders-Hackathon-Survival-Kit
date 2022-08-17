@@ -33,10 +33,10 @@ You can find the full bounty details here for the $55,000 of total prizes on the
 * [Learn how to build a cross chain NFT Exchange](https://youtu.be/IHCb_pcc1Js)
 * [Setup Local Axelar Dev Environment](https://www.youtube.com/watch?v=PWXmsP_a-ck&ab_channel=Axelar)
 
-#### Resources:
-* About Axelar: https://axelar.network/axelar-is-expanding-to-polkadot-by-integrating-with-the-moonbeam-network
-* Moonbeam Docs: https://docs.moonbeam.network/
-* Getting Started with the Moonbase Alpha Testnet: https://docs.moonbeam.network/builders/get-started/networks/moonbase/
+## Building a front-end for your DApp? Start here 
+* [ScaffoldEth](https://github.com/scaffold-eth/scaffold-eth) is a fantastic way to quickly spin up a React frontend that connects to your solidity smart contract. [Learn how to use ScaffoldEth with Moonbeam here](https://docs.moonbeam.network/builders/build/eth-api/dev-env/scaffold-eth/). 
+* [Configure your preferred developer environment for Moonbeam](https://docs.moonbeam.network/builders/build/eth-api/dev-env/)
+
 
 ### Bounty #2: Use a Moonbeam Precompile
 
@@ -47,14 +47,12 @@ You can find the full bounty details here for the $55,000 of total prizes on the
 * Getting Started with Moonbeam Precompiles Workshop: https://youtu.be/mnqAbuQg-zw
 
 ### Judging Criteria
-Each submissions will be judged based on 3 categories:
+Each submissions will be judged based on 4 categories, the details of which can be found at the bottom of [this page](https://moonbeam.devpost.com/).
 
-* Technical Complexity - High scoring submissions in this category may demonstrate impressive technical skill and quality of implementation.
-* User Experience and Design - Can you abstract away complex cross-chain concepts into a simple and intuitive experience for the end user?
-* *For the Cross-Chain Bounty Only*: Cross-Chain Interoperability- Does your application contribute to a cross-chain connected future? The highest scoring submissions in this category will be built with interoperability in mind.
-* *For the Precompile Bounty Only*: Creativity and Value Proposition - Are you making something users want? The highest scoring submissions in this category will be creative solutions that fulfill the needs of their users. Copy / paste deployments from other chains will be ranked lower in this category.
 
 ### General Helpful Resources
-* Moonbeam Documentation Site: https://docs.moonbeam.network/ 
+* Moonbeam Docs Site: https://docs.moonbeam.network/ 
 * Moonbuilders Academy: https://academy.moonbeam.network/ 
 * Developer Hub at Discord: https://discord.gg/moonbeam
+* About Axelar: https://axelar.network/axelar-is-expanding-to-polkadot-by-integrating-with-the-moonbeam-network
+* Getting Started with the Moonbase Alpha Testnet: https://docs.moonbeam.network/builders/get-started/networks/moonbase/
