@@ -14,6 +14,12 @@ Polkadot is a Layer 0 protocol designed to enable interoperability amongst the h
 * **<a href="https://moonriver.moonscan.io/" target="_blank">Moonriver</a>** - Canary network, or experimental mainnet. Moonriver is a parachain on the Kusama Relay Chain
 * **<a href="https://moonbase.moonscan.io/" target="_blank">Moonbase Alpha</a>** - The public testnet for Moonbeam and Moonriver. 
 
+## Connect to the Moonbeam Networks
+You can connect your wallet to the following Moonbeam networks automatically by visiting the Moonbeam docs site and pressing the **[Connect MetaMask](https://moonbeam.network/)** button at the top.
+* [Moonbase Alpha](https://docs.moonbeam.network/builders/get-started/networks/moonbase/)
+* [Moonriver](https://docs.moonbeam.network/builders/get-started/networks/moonriver/)
+* [Moonbeam](https://docs.moonbeam.network/builders/get-started/networks/moonbeam/)
+
 ## Moonbase Alpha Faucet
 * You can get [DEV testnet tokens here](https://apps.moonbeam.network/moonbase-alpha/faucet/).
 * You can make a swap for [testnet cross chain assets here](https://moonbeam-swap.netlify.app/#/swap).
@@ -33,9 +39,10 @@ You can find the full bounty details here for the $55,000 of total prizes on the
 * [Learn how to build a cross chain NFT Exchange](https://youtu.be/IHCb_pcc1Js)
 * [Setup Local Axelar Dev Environment](https://www.youtube.com/watch?v=PWXmsP_a-ck&ab_channel=Axelar)
 
-## Building a front-end for your DApp? Start here 
+## Building a web app as part of your DApp? Start here 
 * [ScaffoldEth](https://github.com/scaffold-eth/scaffold-eth) is a fantastic way to quickly spin up a React frontend that connects to your solidity smart contract. [Learn how to use ScaffoldEth with Moonbeam here](https://docs.moonbeam.network/builders/build/eth-api/dev-env/scaffold-eth/). 
 * [Configure your preferred developer environment for Moonbeam](https://docs.moonbeam.network/builders/build/eth-api/dev-env/)
+* [Use JS libraries like Ethers.js or Web3.js to integrate smart contract functionality into your webapp](https://docs.moonbeam.network/builders/build/eth-api/libraries/)
 
 
 ### Bounty #2: Use a Moonbeam Precompile
