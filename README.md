@@ -53,6 +53,12 @@ You can find the full bounty details here for the $55,000 of total prizes on the
 * Precompiled Contracts: https://docs.moonbeam.network/builders/build/canonical-contracts/precompiles/
 * Getting Started with Moonbeam Precompiles Workshop: https://youtu.be/mnqAbuQg-zw
 
+## General Logistics
+
+### Where to Get Help
+* Hackathons Channel of the [Moonbeam Discord](https://discord.gg/moonbeam)
+* [Axelar Discord](https://discord.com/invite/aRZ3Ra6f7D) 
+
 ### Judging Criteria
 Each submissions will be judged based on 4 categories, the details of which can be found at the bottom of [this page](https://moonbeam.devpost.com/).
 
