@@ -15,7 +15,7 @@ Polkadot is a Layer 0 protocol designed to enable interoperability amongst the h
 * **<a href="https://moonbase.moonscan.io/" target="_blank">Moonbase Alpha</a>** - The public testnet for Moonbeam and Moonriver. 
 
 ## Connect to the Moonbeam Networks
-You can connect your wallet to the following Moonbeam networks automatically by visiting the Moonbeam docs site and pressing the **[Connect MetaMask](https://moonbeam.network/)** button at the top.
+You can connect your wallet to the following Moonbeam networks automatically by visiting the Moonbeam docs site and pressing the **[Connect MetaMask](https://docs.moonbeam.network/)** button at the top or manually with the following instructions:
 * [Moonbase Alpha](https://docs.moonbeam.network/builders/get-started/networks/moonbase/)
 * [Moonriver](https://docs.moonbeam.network/builders/get-started/networks/moonriver/)
 * [Moonbeam](https://docs.moonbeam.network/builders/get-started/networks/moonbeam/)
@@ -45,8 +45,12 @@ You can find the full bounty details here for the $55,000 of total prizes on the
 * [Use JS libraries like Ethers.js or Web3.js to integrate smart contract functionality into your webapp](https://docs.moonbeam.network/builders/build/eth-api/libraries/)
 
 
-### Bounty #2: Use a Moonbeam Precompile
-
+## Working on the Governance bounty? Start here
+* [Understanding Governance in Moonbeam](https://docs.moonbeam.network/learn/features/governance/)
+* [How to Propose an Action](https://docs.moonbeam.network/tokens/governance/proposals/)
+* [How to Vote on a Proposal](https://docs.moonbeam.network/tokens/governance/voting/)
+* [How to Use DemocracyInterface.sol](https://docs.moonbeam.network/builders/pallets-precompiles/precompiles/democracy/)
+* Access the full precompile [DemocracyInterface.sol here](https://github.com/PureStake/moonbeam/blob/master/precompiles/pallet-democracy/DemocracyInterface.sol)
 
 #### Resources:
 * Moonbeam Docs: https://docs.moonbeam.network/
