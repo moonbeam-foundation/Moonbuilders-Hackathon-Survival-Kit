@@ -49,14 +49,14 @@ You can find the full bounty details here for the $55,000 of total prizes on the
 * [How to Propose an Action](https://docs.moonbeam.network/tokens/governance/proposals/)
 * [How to Vote on a Proposal](https://docs.moonbeam.network/tokens/governance/voting/)
 * [How to Use DemocracyInterface.sol](https://docs.moonbeam.network/builders/pallets-precompiles/precompiles/democracy/)
-* Access the full precompile [DemocracyInterface.sol here](https://github.com/PureStake/moonbeam/blob/master/precompiles/pallet-democracy/DemocracyInterface.sol)
+* Access the full precompile, [DemocracyInterface.sol here](https://github.com/PureStake/moonbeam/blob/master/precompiles/pallet-democracy/DemocracyInterface.sol)
 * Precompiled Contracts: https://docs.moonbeam.network/builders/build/canonical-contracts/precompiles/
 * Getting Started with Moonbeam Precompiles Workshop: https://youtu.be/mnqAbuQg-zw
 
-## Judging Criteria
+### Judging Criteria
 Each submissions will be judged based on 4 categories, the details of which can be found at the bottom of [this page](https://moonbeam.devpost.com/).
 
-## General Helpful Resources
+### General Helpful Resources
 * Moonbeam Docs Site: https://docs.moonbeam.network/ 
 * Moonbuilders Academy: https://academy.moonbeam.network/ 
 * Developer Hub at Discord: https://discord.gg/moonbeam
