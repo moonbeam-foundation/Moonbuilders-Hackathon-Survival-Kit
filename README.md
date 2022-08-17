@@ -1,7 +1,7 @@
 # Moonbuilders Hackathon Survival Kit
 Everything you need to get started building on Moonbeam, optimized for builders
 
-![Banner Image](https://i.ibb.co/GnvpLcw/Featured-Images-4.png)
+![Banner Image](https://i.ibb.co/B41kxjv/Twitter-Post-Hackathon-Graphic.png)
 
 ## What's Moonbeam?
 Moonbeam is is the smart contract platform for cross-chain connected applications, which offer superior user experiences by unifying access to users, assets, and services across any existing blockchain. Moonbeam is a fully Ethereum-Compatible Layer-1 blockchain (also known as a *Parachain*) on Polkadot.
