@@ -19,33 +19,53 @@ Polkadot is a Layer 0 protocol designed to enable interoperability amongst the h
 * You can make a swap for [testnet cross chain assets here](https://moonbeam-swap.netlify.app/#/swap).
 * If you need more tokens in bulk for testing purposes don't hesitate to reach out to us in [Discord](https://discord.gg/moonbeam).
 
+## 🎥 Introducing Moonbeam's 2022 EthToronto Bounties
 
-## 🎥 Introducing Moonbeam's 2022 MIT Bitcoin Expo Bounties
-In the below video, Kevin introduces the 2022 Bounties including the challenge descriptions, expectations, and prizes.
-
-[![Introductory Video](https://img.youtube.com/vi/Vbz3ONOyFmg/hqdefault.jpg)](https://youtu.be/Vbz3ONOyFmg)
-
-### Challenge #1: Build an App with [Moonriver's Chainlink Price Feeds](https://docs.moonbeam.network/builders/integrations/oracles/chainlink/)
-Chainlink price feeds are a critical piece of infrastructure of many DeFi applications. The Moonbeam Docs Site has detailed documentation on how you can [easily integrate chainlink price data into your application](https://docs.moonbeam.network/builders/integrations/oracles/chainlink/). The challenge here is simply to use Chainlink price data as a valuable component of your application. You can also checkout the below video guide showing you how to interact with Chainlink price feeds through [AggregatorV3Interface.sol](https://github.com/smartcontractkit/chainlink/blob/develop/contracts/src/v0.8/interfaces/AggregatorV3Interface.sol):
-
-#### 🎥 How to Interact with Chainlink Price Feeds
-In the below video, you'll learn how to fetch price data from Chainlink price feeds on Moonriver and Moonbase Alpha (the public testnet).
-
-[![Chainlink Price Feeds](https://img.youtube.com/vi/esmeaoQzj_8/hqdefault.jpg)](https://youtu.be/esmeaoQzj_8)
+### Bounty #1: Build a Cross-Chain DApp using Axelar
+The purpose of this bounty is to build a cross chain DApp that uses Axelar’s General Message Passing. Moonbeam is collaborating with Axelar to advance this vision of Connected Contracts, allowing you to interact with any contract on any chain. Examples of connected contracts include cross-chain governance actions, aggregated liquidity, or simply calling a contract on a remote chain. The bounty can be “stacked” with bounties from other teams. A project that includes any cross-chain functionality enabled by Axelar’s general message passing and has a contract deployed to a Moonbeam network is eligible for this bounty.
 
 #### Rewards:
-* 1st place: 1,000 USDT 
-* 2nd place: 500 USDT
+* 1st place: $2,500
+* 2nd place: $1,000
 
-#### Evaluation Criteria:
-* Does the application correctly integrate Chainlink price feed data?
-* Is the price feed data a valuable component of the dapp? Why is the price data needed?
-* Is the dApp deployed to Moonbase Alpha (the testnet) or Moonriver?
+#### Requirements:
+* Github Repo - Some code is required. No pitch deck submissions please.
+* ReadMe with steps to build app or a link to a public deployment.
+* Any smart contracts should be deployed to at least one Moonbeam network (Moonbeam, Moonriver or the Moonbase Alpha testnet).
 
-### Challenge #2: Build an App that Displays the Supply of Cross Chain Assets on Moonriver
-[XC-20s](https://docs.moonbeam.network/builders/xcm/xc20/) are Substrate assets that can be transferred cross chain via XCM that also conform to ERC-20 standards. [xcKSM](https://moonriver.moonscan.io/token/0xffffffff1fcacbd218edc0eba20fc2308c778080), or KSM migrated from the Kusama Relay Chain, was the first XC-20 to launch on Moonriver. The challenge here is to build an app that shows cross chain asset statistics, including the supply of each cross chain asset on Moonriver. Under the network -> Assets tab of PolkadotJsApps, you can find a list of all [XC assets on Moonriver and their current supply on Moonriver](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fmoonriver.api.onfinality.io%2Fpublic-ws#/assets). You can also [fetch this data programmatically via the Polkadot API](https://docs.google.com/document/d/14yFV_vYCdgdDIy46OH6ZQwSBHy3ImrZpF9FGPFVWZXE/edit?usp=sharing). The best projects will feature additional statistics, such as supply on origin chain, total outstanding supply, % of supply migrated to Moonriver, etc. 
+#### Resources:
+* About Axelar: https://axelar.network/axelar-is-expanding-to-polkadot-by-integrating-with-the-moonbeam-network
+* Moonbeam Docs: https://docs.moonbeam.network/
+* Getting Started with the Moonbase Alpha Testnet: https://docs.moonbeam.network/builders/get-started/networks/moonbase/
 
-## Helpful Resources
+### Bounty #2: Use a Moonbeam Precompile
+Moonbeam’s precompiles enable you to harness the power of Polkadot via easy-to-use solidity interfaces. These precompiles expose substrate native functionality such as on-chain governance, cross-chain transfers via XCM, staking, and more. They expose these powerful features using the Ethereum API at precompiled contract addresses. Those addresses, as well as tutorials for interacting with them can be found here on the Moonbeam docs site: https://docs.moonbeam.network/builders/build/canonical-contracts/precompiles/
+
+The bounty can be “stacked” with bounties from other teams. A project that includes functionality from any Moonbeam precompile and has a contract deployed to a Moonbeam network is eligible for this bounty.
+
+#### Rewards:
+* 1st place: $1,000
+* 2nd place: $500
+
+#### Requirements:
+* Github Repo - Some code is required. No pitch deck submissions please.
+* ReadMe with steps to build app or a link to a public deployment.
+* Any smart contracts should be deployed to at least one Moonbeam network (Moonbeam, Moonriver or the Moonbase Alpha testnet).
+
+#### Resources:
+* Moonbeam Docs: https://docs.moonbeam.network/
+* Precompiled Contracts: https://docs.moonbeam.network/builders/build/canonical-contracts/precompiles/
+* Getting Started with Moonbeam Precompiles Workshop: https://youtu.be/mnqAbuQg-zw
+
+### Judging Criteria
+Each submissions will be judged based on 3 categories:
+
+* Technical Complexity - High scoring submissions in this category may demonstrate impressive technical skill and quality of implementation.
+* User Experience and Design - Can you abstract away complex cross-chain concepts into a simple and intuitive experience for the end user?
+* *For the Cross-Chain Bounty Only*: Cross-Chain Interoperability- Does your application contribute to a cross-chain connected future? The highest scoring submissions in this category will be built with interoperability in mind.
+* *For the Precompile Bounty Only*: Creativity and Value Proposition - Are you making something users want? The highest scoring submissions in this category will be creative solutions that fulfill the needs of their users. Copy / paste deployments from other chains will be ranked lower in this category.
+
+### General Helpful Resources
 * Moonbeam Documentation Site: https://docs.moonbeam.network/ 
 * Moonbuilders Academy: https://academy.moonbeam.network/ 
 * Developer Hub at Discord: https://discord.gg/moonbeam
