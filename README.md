@@ -22,7 +22,16 @@ Polkadot is a Layer 0 protocol designed to enable interoperability amongst the h
 ## 🎥 Bounty Details
 You can find the full bounty details here for the $55,000 of total prizes on the [hackathon website](https://moonbeam.devpost.com/details/category-details)
 
+## Building a Cross-Chain DApp with Axelar? Start Here
+* Make your first cross-chain contract call [in this step-by-step tutorial](https://moonbeam.network/blog/connected-contracts-axelar/)
+* For a comprehensive overview of the Axelar protocol, visit [Axelar Academy](https://axelar.academy/ecosystem/introduction-to-axelar/)
+* For hands-on docs and examples, visit [Axelar Docs](https://docs.axelar.dev/dev/intro)
 
+### Axelar Video Content
+* [What is Axelar? - An Animated 3 minute intro](https://www.youtube.com/watch?v=Fz3FSCfj-d0&ab_channel=Axelar)
+* [Learn how to build a cross chain DApp with Axelar](https://www.youtube.com/watch?v=e1a41UZdBZ0&ab_channel=Axelar)
+* [Learn how to build a cross chain NFT Exchange](https://youtu.be/IHCb_pcc1Js)
+* [Setup Local Axelar Dev Environment](https://www.youtube.com/watch?v=PWXmsP_a-ck&ab_channel=Axelar)
 
 #### Resources:
 * About Axelar: https://axelar.network/axelar-is-expanding-to-polkadot-by-integrating-with-the-moonbeam-network
