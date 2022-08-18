@@ -65,6 +65,10 @@ You can find the full bounty details here for the $55,000 of total prizes on the
 * Hackathons Channel of the [Moonbeam Discord](https://discord.gg/moonbeam)
 * [Axelar Discord](https://discord.com/invite/aRZ3Ra6f7D) 
 
+### Dev's Open Mic Every Wednesday at 1pm EST / 5 PM UTC 
+Join the [Moonbeam Team on Discord](https://discord.gg/moonbeam) for the Devs Open Mic. Like office hours, this is a great chance to ask any questions about the hackathon or building on Moonbeam.
+![Devs Open Mic Image](https://i.ibb.co/QPRLFPT/2.png)
+
 ### Judging Criteria
 Each submissions will be judged based on 4 categories, the details of which can be found at the bottom of [this page](https://moonbeam.devpost.com/).
 
