@@ -1,7 +1,7 @@
 # Moonbuilders Hackathon Survival Kit
 Everything you need to get started building on Moonbeam, optimized for builders
 
-![Banner Image](https://i.ibb.co/B41kxjv/Twitter-Post-Hackathon-Graphic.png)
+![Banner Image](https://i.ibb.co/gSKvv9F/Events-banners-3.png)
 
 ## Workshops ✏️
 * **[Hackathon Kickoff](https://www.crowdcast.io/e/connected-contracts/1)** - ***Thursday, August 18th at 1pm EST***: Hear from speakers from the Moonbeam Foundation, Axelar, and Arrington Capital. We'll explain the bounties, discuss sample projects, and review hackathon logistics. 
