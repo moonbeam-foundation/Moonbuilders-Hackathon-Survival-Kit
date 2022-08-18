@@ -13,7 +13,7 @@ Everything you need to get started building on Moonbeam, optimized for builders
 Moonbeam is a smart contract platform for building cross-chain connected applications that can access users, assets, and services on any chain. By uniting functionality from Ethereum, Cosmos, Polkadot and more into a single platform, Moonbeam solves today's fragmented user experience — unlocking true interoperability and paving the way for the next generation of applications. The Moonbeam platform uses integrated cross-chain messaging to allow developers to create smart contracts that access services across many remote blockchains. This approach, plus Moonbeam's developer-friendly EVM platform, vast tool support, and modern Substrate architecture, creates the ideal development environment for building connected applications.
 
 ## What's Polkadot?
-Polkadot is a Layer 0 protocol designed to enable interoperability amongst the hetereogenous L1 blockchains that run on top of it. Polkadot provides the security, governance, and cross chain communication to enable seamless interoperability between parachains, or L1 blockchains that serve various specialized use cases. Moonbeam is a Polkadot parachain. 
+Polkadot unites and secures a growing ecosystem of specialized blockchains called parachains. Apps and services on Polkadot can securely communicate across chains, forming the basis for a truly interoperable decentralized web. Moonbeam is a Polkadot parachain. 
 
 ## Meet the Networks (and block explorers)
 * **<a href="https://moonscan.io/" target="_blank">Moonbeam</a>** - Mainnet, operating as a parachain on the Polkadot Relay Chain
