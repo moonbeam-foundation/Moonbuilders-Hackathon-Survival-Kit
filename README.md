@@ -62,8 +62,8 @@ You can find the full bounty details here for the $55,000 of total prizes on the
 ## General Logistics
 
 ### Where to Get Help
-* Hackathons Channel of the [Moonbeam Discord](https://discord.gg/moonbeam)
-* [Axelar Discord](https://discord.com/invite/aRZ3Ra6f7D) 
+* [**Hackathons** Channel of the Moonbeam Discord](https://discord.gg/moonbeam)
+* [**Developers** Channel of the Axelar Discord](https://discord.gg/jwDbjqd9Sh) 
 
 ### Dev's Open Mic Every Wednesday at 1pm EST / 5 PM UTC 
 Join the [Moonbeam Team on Discord](https://discord.gg/moonbeam) for the Devs Open Mic. Akin to a "hackathon office hours", this is a great chance to ask any questions about the hackathon or building on Moonbeam.
