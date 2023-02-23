@@ -29,11 +29,11 @@ In order to be eligible for this bounty, your dApp should have at least some sma
 
 ## Bounty 2 - Improve your dApp’s UX with Batching or Gasless Transactions
 
-Moonbeam has a variety of precompiles, such as the batch precompile and call permit precompile that offer powerful functionality to builders which can vastly improve the UX for dApp users. The batch precompile allows you to combine multiple smart contract calls into a single transaction. These groupings can be atomic or nonatomic at your discretion. 
+Moonbeam has a variety of precompiles, such as the [batch precompile](https://docs.moonbeam.network/builders/pallets-precompiles/precompiles/batch/) and [call permit precompile](https://docs.moonbeam.network/builders/pallets-precompiles/precompiles/call-permit/) that offer powerful functionality to builders which can vastly improve the UX for dApp users. The [batch precompile](https://docs.moonbeam.network/builders/pallets-precompiles/precompiles/batch/) allows you to combine multiple smart contract calls into a single transaction. These groupings can be atomic or nonatomic at your discretion. 
 
 The quintessential example of a batched transaction that simplifies the UX for end users is batching together the approval and swap transactions for DEX. Rather than a user having to confirm an approval transaction and a swap transaction, the user can confirm a single batched transaction that executes both within the same block. In this case, you’d want the batch transaction to be atomic, because there’s no need to approve an ERC-20 allowance if the swap reverts. 
 
-Another possibility is to use the Call Permit Precompile. One of the most frustrating experiences for a user new to Web3 is acquiring gas to pay for transactions. You can substantially improve your dApp’s UX by eliminating the requirement that the user hold the native token for gas. Moonbeam’s call permit precompile enables you to do exactly that - with it, you can dispatch any transaction in a gasless manner which can be relayed by Biconomy.
+Another possibility is to use the [Call Permit Precompile](https://docs.moonbeam.network/builders/pallets-precompiles/precompiles/call-permit/). One of the most frustrating experiences for a user new to Web3 is acquiring gas to pay for transactions. You can substantially improve your dApp’s UX by eliminating the requirement that the user hold the native token for gas. Moonbeam’s call permit precompile enables you to do exactly that - with it, you can dispatch any transaction in a gasless manner which can be relayed by Biconomy.
 
 To be eligible for this bounty, your dApp should have at least some smart contract logic deployed to Moonbeam or Moonbase Alpha. Secondly, it must utilize the batch precompile or the call permit precompile (or both) to provide any non-trivial functionality to your dApp. 
 
@@ -51,7 +51,7 @@ In this [Bounty Judging Video](https://youtu.be/NVMUfx8BF3I), Kevin explains the
 Moonbeam is a smart contract platform for building cross-chain connected applications that can access users, assets, and services on any chain. By uniting functionality from Ethereum, Cosmos, Polkadot and more into a single platform, Moonbeam solves today's fragmented user experience — unlocking true interoperability and paving the way for the next generation of applications. The Moonbeam platform uses integrated cross-chain messaging to allow developers to create smart contracts that access services across many remote blockchains. This approach, plus Moonbeam's developer-friendly EVM platform, vast tool support, and modern Substrate architecture, creates the ideal development environment for building connected applications.
 
 ## What's Polkadot?
-Polkadot unites and secures a growing ecosystem of specialized blockchains called parachains. Apps and services on Polkadot can securely communicate across chains, forming the basis for a truly interoperable decentralized web. Moonbeam is a Polkadot parachain. 
+[Polkadot](https://polkadot.network/) unites and secures a growing ecosystem of specialized blockchains called parachains. Apps and services on Polkadot can securely communicate across chains, forming the basis for a truly interoperable decentralized web. Moonbeam is a Polkadot parachain. 
 
 ## Meet the Networks (and block explorers)
 * **<a href="https://moonscan.io/" target="_blank">Moonbeam</a>** - Mainnet
@@ -114,7 +114,7 @@ Jeremy from the Moonbeam Team has created an excellent series of videos explaini
 ### Written Tutorials
 * [Interacting with the Batch Precompile](https://docs.moonbeam.network/builders/pallets-precompiles/precompiles/batch/)
 * [Access the Batch.sol Solidity Interface Here](https://github.com/PureStake/moonbeam/blob/master/precompiles/batch/Batch.sol)
-* [Interacting with the Call Permit Precompile](https://docs.moonbeam.network/builders/pallets-precompiles/precompiles/call-permit/#call-permit-arguments)
+* [Interacting with the Call Permit Precompile](https://docs.moonbeam.network/builders/pallets-precompiles/precompiles/call-permit/)
 * [Access the CallPermit.sol Solidity Interface Here](https://github.com/PureStake/moonbeam/blob/master/precompiles/call-permit/CallPermit.sol)
 
 ### Video Tutorials
