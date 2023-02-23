@@ -90,7 +90,13 @@ Moonbeam has integrated with a variety of GMP protocols including Axelar, Hyperl
 * [Wormhole Docs](https://docs.wormhole.com/wormhole/)
 * [Wormhole xDapp Development Guide book](https://book.wormhole.com/)
 
-### Axelar Video Content
+### Prefer Video Tutorials? 
+Jeremy from the Moonbeam Team has created an excellent series of videos explaining the ins and outs of all of the GMP protocols integrated with Moonbeam. 
+
+
+
+
+
 * [What is Axelar? - An Animated 3 minute intro](https://www.youtube.com/watch?v=Fz3FSCfj-d0&ab_channel=Axelar)
 * [Learn how to build a cross chain DApp with Axelar](https://www.youtube.com/watch?v=e1a41UZdBZ0&ab_channel=Axelar)
 * [Learn how to build a cross chain NFT Exchange](https://youtu.be/IHCb_pcc1Js)
