@@ -11,9 +11,9 @@ Challenges in 2023](https://events.ethdenver.com/eden23/attendease/networking/ex
 * **[Remote Cross-Chain EVM Calls with XCM](https://events.ethdenver.com/eden23/attendease/networking/experience/0247a52b-aaee-4bcd-b099-41006497962b/fe8cecbb-68ae-4841-a6d1-482f11c05ff0)** - ***Friday, March 3rd at 11:30am MST @Buidl Palace***: Kevin Neilson and Stephen Shelton will introduce you to XCM and Remote EVM Calls. With remote cross-chain EVM calls now live on the testnet, you can now send an XCM message from a remote chain containing a contract call to be executed on Moonbeam's EVM. We'll go through the steps of generating a derivative account on Moonbeam that we'll control remotely via XCM. Then, we'll jump into crafting our remote EVM call - we'll initiate a swap on a Uniswap-style Dex to take place all from a remote chain.
  
 ## 🎥 Introducing Moonbeam's 2023 EthDenver Bounties
-In the below video, Kevin reveals Moonbeam's 2023 Bounties including the challenge descriptions, expectations, and prizes.
+In this [bounty introduction video](https://youtu.be/pufGqu1h8YU), Kevin reveals Moonbeam's 2023 Bounties including the challenge descriptions, expectations, and prizes.
 
-[![Introductory Video](https://i.ibb.co/h8bBfGq/You-Tube-Thumbnails-43.png)](https://youtu.be/pufGqu1h8YU)
+[![Introductory Video](https://i.ibb.co/jbzqB8f/You-Tube-Thumbnails-47.png)](https://youtu.be/pufGqu1h8YU)
 
 ## Bounty 1 - Make a Remote Contract Call
 
@@ -32,6 +32,11 @@ The quintessential example of a batched transaction that simplifies the UX for e
 Another possibility is to use the Call Permit Precompile. One of the most frustrating experiences for a user new to Web3 is acquiring gas to pay for transactions. You can substantially improve your dApp’s UX by eliminating the requirement that the user hold the native token for gas. Moonbeam’s call permit precompile enables you to do exactly that - with it, you can dispatch any transaction in a gasless manner which can be relayed by Biconomy.
 
 To be eligible for this bounty, your dApp should have at least some smart contract logic deployed to Moonbeam or Moonbase Alpha. Secondly, it must utilize the batch precompile or the call permit precompile (or both) to provide any non-trivial functionality to your dApp. 
+
+## 🎥 How the Bounties will be Judged + Tips for Success
+In this [Bounty Judging Video](https://youtu.be/NVMUfx8BF3I), Kevin explains the judging guidelines and tips for success. Sample projects are also discussed! 
+
+[![Judging Guidelines Video](https://i.ibb.co/3YKf8q3/34.png)](https://youtu.be/NVMUfx8BF3I)
 
 
 ## What's Moonbeam?
@@ -90,7 +95,7 @@ You can find the full bounty details here for the $55,000 of total prizes on the
 * [**Hackathons** Channel of the Moonbeam Discord](https://discord.gg/moonbeam)
 * [**Developers** Channel of the Axelar Discord](https://discord.gg/jwDbjqd9Sh) 
 
-### Dev's Open Mic Every Wednesday at 1pm EST / 5 PM UTC 
+### Dev's Open Mic Every Thursday at 1pm EST / 5 PM UTC 
 Join the [Moonbeam Team on Discord](https://discord.gg/moonbeam) for the Devs Open Mic. Akin to a "hackathon office hours", this is a great chance to ask any questions about the hackathon or building on Moonbeam.
 ![Devs Open Mic Image](https://i.ibb.co/QPRLFPT/2.png)
 
