@@ -130,10 +130,15 @@ Jeremy from the Moonbeam Team has created an excellent series of videos explaini
 * [Configure your preferred developer environment for Moonbeam](https://docs.moonbeam.network/builders/build/eth-api/dev-env/)
 * [Use JS libraries like Ethers.js or Web3.js to integrate smart contract functionality into your webapp](https://docs.moonbeam.network/builders/build/eth-api/libraries/)
 
-### Where to Get Help
+### Office Hours
+Office hours are a great place to get help or feedback on your idea. *Note*: You can stop by the Moonbeam Booth anytime for help! These office hours are simply meant to provide a dedicated timeslot with availability of multiple Moonbeam team members. They are held at the Moonbeam Booth (Devtopia, Booth R) at the following times:
+* Thursday (3/2) 11:00 am -12:00 pm MST
+* Friday (3/3) 2:00 - 3:00 pm MST 
+* Saturday (3/4) 5:00 - 6:00 pm MST
+
+### Additional places to Get Help
 * [**Hackathons** Channel of the Moonbeam Discord](https://discord.gg/moonbeam)
-* Office Hours
-* Come by the Moonbeam Booth anytime! 
+* Come by the Moonbeam Booth (Devtopia, Booth R) anytime! 
 
 ### Judging Criteria
 Projects should meet bounty specific requirements. All Moonbeam bounties will be judged according to the standard ethDenver judging guidelines - that is: 
