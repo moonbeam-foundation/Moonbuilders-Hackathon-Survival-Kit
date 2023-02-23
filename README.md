@@ -74,6 +74,7 @@ Moonbeam has integrated with a variety of GMP protocols including Axelar, Hyperl
 * Make your first cross-chain contract call [in this step-by-step tutorial](https://moonbeam.network/blog/connected-contracts-axelar/)
 * For a comprehensive overview of the Axelar protocol, visit [Axelar Academy](https://axelar.academy/ecosystem/introduction-to-axelar/)
 * For hands-on docs and examples, visit [Axelar Docs](https://docs.axelar.dev/dev/intro)
+* [Send a cross chain message with Axelar](https://docs.axelar.dev/dev/build/gmp-messages)
 
 ### Building a Cross-Chain DApp with Hyperlane? Start Here
 * Make your first cross-chain contract call [in this step-by-step tutorial](https://moonbeam.network/blog/connected-contracts-with-hyperlane/)
@@ -82,7 +83,7 @@ Moonbeam has integrated with a variety of GMP protocols including Axelar, Hyperl
 
 ### Building a Cross-Chain DApp with LayerZero? Start Here
 * Make your first cross-chain contract call [in this step-by-step tutorial](https://moonbeam.network/blog/connected-contracts-layerzero/)
-* For a comprehensive overview of the Axelar protocol, visit [Axelar Academy](https://axelar.academy/ecosystem/introduction-to-axelar/)
+* [Code samples](https://layerzero.gitbook.io/docs/evm-guides/code-examples)
 * [Send a cross chain message with LayerZero](https://layerzero.gitbook.io/docs/evm-guides/master/how-to-send-a-message)
 
 ### Building a Cross-Chain DApp with Wormhole? Start Here
@@ -93,25 +94,28 @@ Moonbeam has integrated with a variety of GMP protocols including Axelar, Hyperl
 ### Prefer Video Tutorials? 
 Jeremy from the Moonbeam Team has created an excellent series of videos explaining the ins and outs of all of the GMP protocols integrated with Moonbeam. 
 
-
-
-
-
-* [What is Axelar? - An Animated 3 minute intro](https://www.youtube.com/watch?v=Fz3FSCfj-d0&ab_channel=Axelar)
-* [Learn how to build a cross chain DApp with Axelar](https://www.youtube.com/watch?v=e1a41UZdBZ0&ab_channel=Axelar)
-* [Learn how to build a cross chain NFT Exchange](https://youtu.be/IHCb_pcc1Js)
-* [Setup Local Axelar Dev Environment](https://www.youtube.com/watch?v=PWXmsP_a-ck&ab_channel=Axelar)
+* [Architecture of Connected Contracts](https://www.youtube.com/watch?v=Fz3FSCfj-d0&ab_channel=Axelar)
+* [Architecture of Axelar's GMP Framework](https://www.youtube.com/watch?v=e1a41UZdBZ0&ab_channel=Axelar)
+* [Writing Connected Contracts with Axelar](https://youtu.be/IHCb_pcc1Js)
+* [Writing Connected Contracts with LayerZero](https://www.youtube.com/watch?v=PWXmsP_a-ck&ab_channel=Axelar)
+* [Building in the Interchain with Hyperlane](https://www.youtube.com/watch?v=0YYNOCrxSmY&ab_channel=MoonbeamNetwork)
+* [Wormhole Architecture](https://www.youtube.com/watch?v=PWXmsP_a-ck&ab_channel=Axelar)
+* [Writing Connected Contracts with Wormhole](https://www.youtube.com/watch?v=PWXmsP_a-ck&ab_channel=Axelar)
 
 
 ## Resources for Bounty 2 - Improve your dApp’s UX with Batching or Gasless Transactions
 
-* [Understanding Governance in Moonbeam](https://docs.moonbeam.network/learn/features/governance/)
-* [How to Propose an Action](https://docs.moonbeam.network/tokens/governance/proposals/)
-* [How to Vote on a Proposal](https://docs.moonbeam.network/tokens/governance/voting/)
-* [How to Use DemocracyInterface.sol](https://docs.moonbeam.network/builders/pallets-precompiles/precompiles/democracy/)
-* Access the full precompile, [DemocracyInterface.sol here](https://github.com/PureStake/moonbeam/blob/master/precompiles/pallet-democracy/DemocracyInterface.sol)
-* Precompiled Contracts: https://docs.moonbeam.network/builders/build/canonical-contracts/precompiles/
-* Getting Started with Moonbeam Precompiles Workshop: https://youtu.be/mnqAbuQg-zw
+### Written Tutorials
+* [Interacting with the Batch Precompile](https://docs.moonbeam.network/builders/pallets-precompiles/precompiles/batch/)
+* [Access the Batch.sol Solidity Interface Here](https://github.com/PureStake/moonbeam/blob/master/precompiles/batch/Batch.sol)
+* [Interacting with the Call Permit Precompile](https://docs.moonbeam.network/builders/pallets-precompiles/precompiles/call-permit/#call-permit-arguments)
+* [Access the CallPermit.sol Solidity Interface Here](https://github.com/PureStake/moonbeam/blob/master/precompiles/call-permit/CallPermit.sol)
+
+### Video Tutorials
+* [Batch Precompile Part 1 - Introduction and Methods of the Batch Precompile](https://drive.google.com/file/d/1E2mpHvuCyb0svFg5dFe5EeYrs4HzLIiU/view?usp=sharing)
+* [Batch Precompile Part 2 - Batching Transfers and Contract Calls](https://drive.google.com/file/d/1xy9ovrvkWuU5z4VwnFoZMDUAQhcJDZAg/view?usp=sharing)
+* [Call Permit Precompile Part 1 - Introduction to the Call Permit Precompile](https://drive.google.com/file/d/13-G2hp1AN0lFmXLP0t_J254cHoYmaK_w/view?usp=sharing)
+* [Call Permit Precompile Part 2 - Using CallPermit.sol to Dispatch a Call](https://drive.google.com/file/d/1EjWmDlBei2rRW5O7OO06Y2PGty5I_QRy/view?usp=sharing)
 
 ## General Resources
 
