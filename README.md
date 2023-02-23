@@ -94,14 +94,13 @@ Moonbeam has integrated with a variety of GMP protocols including Axelar, Hyperl
 ### Prefer Video Tutorials? 
 Jeremy from the Moonbeam Team has created an excellent series of videos explaining the ins and outs of all of the GMP protocols integrated with Moonbeam. 
 
-* [Architecture of Connected Contracts](https://www.youtube.com/watch?v=Fz3FSCfj-d0&ab_channel=Axelar)
-* [Architecture of Axelar's GMP Framework](https://www.youtube.com/watch?v=e1a41UZdBZ0&ab_channel=Axelar)
-* [Writing Connected Contracts with Axelar](https://youtu.be/IHCb_pcc1Js)
-* [Writing Connected Contracts with LayerZero](https://www.youtube.com/watch?v=PWXmsP_a-ck&ab_channel=Axelar)
+* [Architecture of Connected Contracts](https://drive.google.com/file/d/1PxaKgRxaQFbKpk49q-BAtFsbfdtm0LYI/view?usp=sharing)
+* [Architecture of Axelar's GMP Framework](https://drive.google.com/file/d/1Lez5fAatVxIyDIEWCIQNV_f3OVsiafsT/view?usp=sharing)
+* [Writing Connected Contracts with Axelar](https://drive.google.com/file/d/1-_-7QdeFXRkYqEYPDLk1s1f3qOMgJiGy/view?usp=sharing)
+* [Writing Connected Contracts with LayerZero](https://drive.google.com/file/d/1Ek6L8ffCvW0bLcNMUAtDAJFCGEhV95ZT/view?usp=sharing)
 * [Building in the Interchain with Hyperlane](https://www.youtube.com/watch?v=0YYNOCrxSmY&ab_channel=MoonbeamNetwork)
-* [Wormhole Architecture](https://www.youtube.com/watch?v=PWXmsP_a-ck&ab_channel=Axelar)
-* [Writing Connected Contracts with Wormhole](https://www.youtube.com/watch?v=PWXmsP_a-ck&ab_channel=Axelar)
-
+* [Wormhole Architecture](https://drive.google.com/file/d/1UW__Fgs825a-lKQ_KbdzveIJT1X-2iV_/view?usp=sharing)
+* [Writing Connected Contracts with Wormhole](https://drive.google.com/file/d/1hYAMnI9bYzfkFBqO3a9gxuz2aHX07rkl/view?usp=sharing)
 
 ## Resources for Bounty 2 - Improve your dApp’s UX with Batching or Gasless Transactions
 
@@ -142,8 +141,7 @@ Projects should meet bounty specific requirements. All Moonbeam bounties will be
 * [Moonbeam Docs Site](https://docs.moonbeam.network/) 
 * [Moonbuilders Academy](https://academy.moonbeam.network/) 
 * [Developer Discord](https://discord.gg/moonbeam)
-* About Axelar: https://axelar.network/axelar-is-expanding-to-polkadot-by-integrating-with-the-moonbeam-network
-* Getting Started with the Moonbase Alpha Testnet: https://docs.moonbeam.network/builders/get-started/networks/moonbase/
+* [Getting Started with the Moonbase Alpha Testnet](https://docs.moonbeam.network/builders/get-started/networks/moonbase/) 
 
 #### Disclaimer
 We reserve the right to withhold bounty payouts where low quality submissions do not meet our bounty requirements.
