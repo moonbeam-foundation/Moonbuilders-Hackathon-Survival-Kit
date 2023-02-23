@@ -23,7 +23,11 @@ Moonbeam has integrated with a variety of GMP Protocols including Axelar, Hyperl
 
 In order to be eligible for this bounty, your dApp should have at least some smart contract logic deployed to Moonbeam or Moonbase Alpha. Secondly, it needs to implement a cross-chain contract call that plays a non-trivial role in the application. As an example, if you’re building a cross-chain DEX, a cross-chain contract call that sends a message “HELLO WORLD” to another chain at random intervals would be considered trivial and not related to the dApp’s purpose. 
 
-## Bounty 2 - Use the Batch or Call Permit Precompile
+#### Rewards:
+* 1st place: 4,000 USDC 
+* 2nd place: 1,000 USDC
+
+## Bounty 2 - Improve your dApp’s UX with Batching or Gasless Transactions
 
 Moonbeam has a variety of precompiles, such as the batch precompile and call permit precompile that offer powerful functionality to builders which can vastly improve the UX for dApp users. The batch precompile allows you to combine multiple smart contract calls into a single transaction. These groupings can be atomic or nonatomic at your discretion. 
 
@@ -32,6 +36,10 @@ The quintessential example of a batched transaction that simplifies the UX for e
 Another possibility is to use the Call Permit Precompile. One of the most frustrating experiences for a user new to Web3 is acquiring gas to pay for transactions. You can substantially improve your dApp’s UX by eliminating the requirement that the user hold the native token for gas. Moonbeam’s call permit precompile enables you to do exactly that - with it, you can dispatch any transaction in a gasless manner which can be relayed by Biconomy.
 
 To be eligible for this bounty, your dApp should have at least some smart contract logic deployed to Moonbeam or Moonbase Alpha. Secondly, it must utilize the batch precompile or the call permit precompile (or both) to provide any non-trivial functionality to your dApp. 
+
+#### Rewards:
+* 1st place: 4,000 USDC 
+* 2nd place: 1,000 USDC
 
 ## 🎥 How the Bounties will be Judged + Tips for Success
 In this [Bounty Judging Video](https://youtu.be/NVMUfx8BF3I), Kevin explains the judging guidelines and tips for success. Sample projects are also discussed! 
@@ -61,8 +69,7 @@ You can connect your wallet to the following Moonbeam networks automatically by 
 * You can make a swap for [testnet cross chain assets here](https://moonbeam-swap.netlify.app/#/swap).
 * If you need more tokens in bulk for testing purposes don't hesitate to reach out to us in [Discord](https://discord.gg/moonbeam).
 
-## 🎥 Bounty Details
-You can find the full bounty details here for the $55,000 of total prizes on the [hackathon website](https://moonbeam.devpost.com/details/category-details)
+## Resources for Bounty 1 - Use a GMP Protocol to Remotely Call a Contract
 
 ## Building a Cross-Chain DApp with Axelar? Start Here
 * Make your first cross-chain contract call [in this step-by-step tutorial](https://moonbeam.network/blog/connected-contracts-axelar/)
@@ -75,12 +82,9 @@ You can find the full bounty details here for the $55,000 of total prizes on the
 * [Learn how to build a cross chain NFT Exchange](https://youtu.be/IHCb_pcc1Js)
 * [Setup Local Axelar Dev Environment](https://www.youtube.com/watch?v=PWXmsP_a-ck&ab_channel=Axelar)
 
-## Building a web app as part of your DApp? Start here 
-* [ScaffoldEth](https://github.com/scaffold-eth/scaffold-eth) is a fantastic way to quickly spin up a React frontend that connects to your solidity smart contract. [Learn how to use ScaffoldEth with Moonbeam here](https://docs.moonbeam.network/builders/build/eth-api/dev-env/scaffold-eth/). 
-* [Configure your preferred developer environment for Moonbeam](https://docs.moonbeam.network/builders/build/eth-api/dev-env/)
-* [Use JS libraries like Ethers.js or Web3.js to integrate smart contract functionality into your webapp](https://docs.moonbeam.network/builders/build/eth-api/libraries/)
 
-## Working on the Governance bounty? Start here
+## Resources for Bounty 2 - Improve your dApp’s UX with Batching or Gasless Transactions
+
 * [Understanding Governance in Moonbeam](https://docs.moonbeam.network/learn/features/governance/)
 * [How to Propose an Action](https://docs.moonbeam.network/tokens/governance/proposals/)
 * [How to Vote on a Proposal](https://docs.moonbeam.network/tokens/governance/voting/)
@@ -89,22 +93,33 @@ You can find the full bounty details here for the $55,000 of total prizes on the
 * Precompiled Contracts: https://docs.moonbeam.network/builders/build/canonical-contracts/precompiles/
 * Getting Started with Moonbeam Precompiles Workshop: https://youtu.be/mnqAbuQg-zw
 
-## General Logistics
+## General Resources
+
+### Building a web app as part of your DApp? Start here 
+* [ScaffoldEth](https://github.com/scaffold-eth/scaffold-eth) is a fantastic way to quickly spin up a React frontend that connects to your solidity smart contract. [Learn how to use ScaffoldEth with Moonbeam here](https://docs.moonbeam.network/builders/build/eth-api/dev-env/scaffold-eth/). 
+* [Configure your preferred developer environment for Moonbeam](https://docs.moonbeam.network/builders/build/eth-api/dev-env/)
+* [Use JS libraries like Ethers.js or Web3.js to integrate smart contract functionality into your webapp](https://docs.moonbeam.network/builders/build/eth-api/libraries/)
 
 ### Where to Get Help
 * [**Hackathons** Channel of the Moonbeam Discord](https://discord.gg/moonbeam)
-* [**Developers** Channel of the Axelar Discord](https://discord.gg/jwDbjqd9Sh) 
-
-### Dev's Open Mic Every Thursday at 1pm EST / 5 PM UTC 
-Join the [Moonbeam Team on Discord](https://discord.gg/moonbeam) for the Devs Open Mic. Akin to a "hackathon office hours", this is a great chance to ask any questions about the hackathon or building on Moonbeam.
-![Devs Open Mic Image](https://i.ibb.co/QPRLFPT/2.png)
+* Office Hours
+* Come by the Moonbeam Booth anytime! 
 
 ### Judging Criteria
-Each submissions will be judged based on 4 categories, the details of which can be found at the bottom of [this page](https://moonbeam.devpost.com/).
+Projects should meet bounty specific requirements. All Moonbeam bounties will be judged according to the standard ethDenver judging guidelines - that is: 
+* Theme Fit
+* Originality & Innovation
+* Ease of use (UI/UX)
+* Sustainability (marketplace viability)
+* Technical complexity
+* Level of Completion
 
 ### General Helpful Resources
-* Moonbeam Docs Site: https://docs.moonbeam.network/ 
-* Moonbuilders Academy: https://academy.moonbeam.network/ 
-* Developer Hub at Discord: https://discord.gg/moonbeam
+* [Moonbeam Docs Site](https://docs.moonbeam.network/) 
+* [Moonbuilders Academy](https://academy.moonbeam.network/) 
+* [Developer Discord](https://discord.gg/moonbeam)
 * About Axelar: https://axelar.network/axelar-is-expanding-to-polkadot-by-integrating-with-the-moonbeam-network
 * Getting Started with the Moonbase Alpha Testnet: https://docs.moonbeam.network/builders/get-started/networks/moonbase/
+
+#### Disclaimer
+We reserve the right to withhold bounty payouts where low quality submissions do not meet our bounty requirements.
