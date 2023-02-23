@@ -19,7 +19,7 @@ In this [bounty introduction video](https://youtu.be/pufGqu1h8YU), Kevin reveals
 
 General Message Passing (GMP) Protocols allow you to send messages to other chains, including messages that contain contract call data and can trigger actions on remote chains such as buying an NFT, making a swap, & much more.
 
-Moonbeam has integrated with a variety of GMP Protocols including Axelar, Hyperlane, LayerZero, Wormhole & of course, Polkadot's native XCM. These protocols make it truly easy to call a contract on a remote chain - all you need to do is specify the destination chain, the contract address you want to interact with, and the payload (contract call data). It’s that simple. 
+Moonbeam has integrated with a variety of GMP Protocols including [Axelar](https://axelar.network/), [Hyperlane](https://www.hyperlane.xyz/), [LayerZero](https://layerzero.network/), [Wormhole](https://docs.wormhole.com/wormhole/) & of course, Polkadot's native [XCM](https://wiki.polkadot.network/docs/learn-xcm). These protocols make it truly easy to call a contract on a remote chain - all you need to do is specify the destination chain, the contract address you want to interact with, and the payload (contract call data). It’s that simple. 
 
 In order to be eligible for this bounty, your dApp should have at least some smart contract logic deployed to Moonbeam or Moonbase Alpha. Secondly, it needs to implement a cross-chain contract call that plays a non-trivial role in the application. As an example, if you’re building a cross-chain DEX, a cross-chain contract call that sends a message “HELLO WORLD” to another chain at random intervals would be considered trivial and not related to the dApp’s purpose. 
 
