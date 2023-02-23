@@ -1,7 +1,7 @@
 # EthDenver Moonbuilder's Survival Guide
 Everything you need to get started building on Moonbeam, optimized for builders
 
-![Banner Image](https://i.ibb.co/xg05CwB/ETHDenver-tshirt-design-final-PNG-1.png)
+![Banner Image](https://i.ibb.co/7rgx68w/export2.jpg)
 
 ## Workshops ✏️
 * **[Hackathon Kickoff](https://www.crowdcast.io/e/connected-contracts/1)** - ***Thursday, August 18th at 1pm EST***: Hear from speakers from the Moonbeam Foundation, Axelar, and Arrington Capital. We'll explain the bounties, discuss sample projects, and review hackathon logistics. 
