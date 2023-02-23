@@ -1,4 +1,4 @@
-# EthDenver Moonbuilder's Survival Guide
+# Moonbuilders Hackathon Survival Kit
 Everything you need to get started building on Moonbeam, optimized for builders
 
 ![Banner Image](https://i.ibb.co/gSKvv9F/Events-banners-3.png)
