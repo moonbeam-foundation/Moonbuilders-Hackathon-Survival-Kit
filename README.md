@@ -4,7 +4,8 @@ Everything you need to get started building on Moonbeam, optimized for builders
 ![Banner Image](https://i.ibb.co/GFVTSR2/export2-clipped.jpg)
 
 ## Workshops ✏️
-* **[Hackathon Kickoff](https://www.crowdcast.io/e/connected-contracts/1)** - ***Thursday, August 18th at 1pm EST***: Hear from speakers from the Moonbeam Foundation, Axelar, and Arrington Capital. We'll explain the bounties, discuss sample projects, and review hackathon logistics. 
+* **[Cross Chain Protocol Architectures: Key Trends and
+Challenges in 2023](https://events.ethdenver.com/eden23/attendease/networking/experience/8cade9b6-3b1e-4b51-83e6-91132e2f6e7a/3c2e7611-a7b2-4535-bfcc-3647561bf1c4)** - ***Thursday, March 2nd at 5pm MST @Infrastructure + Scalability Stage***: In this talk, Derek Yoo, Founder of Moonbeam, will share his experience helping dozens of projects pursuing multi-chain strategies. Derek will also dive into cross-chain protocol architectures, current market opportunities, and challenges, including market trends and future directions for cross-chain apps and infrastructure.. 
 * **[Building Connected Contracts on Moonbeam](https://www.crowdcast.io/e/connected-contracts/2)** - ***Tuesday, August 23rd at 1pm EST***: Kevin Neilson, Moonbeam DevRel Engineer will introduce you to XCM (Polkadot's general message passing framework) and show how you can use Axelar to send a cross chain message to a remote chain.
 * **[Building Cross-Chain DApps with Axelar](https://www.crowdcast.io/e/connected-contracts/3)** - ***Wednesday, August 24th at 1pm EST***: Axelar Developer Vladimir Agaev will show you how to quickly get started with Axelar and build cross-chain dapps.
  
