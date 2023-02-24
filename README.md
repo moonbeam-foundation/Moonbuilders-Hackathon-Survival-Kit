@@ -1,7 +1,7 @@
 # EthDenver Moonbuilder's Survival Guide
 Everything you need to get started building on Moonbeam, optimized for builders
 
-![Banner Image](https://i.ibb.co/GFVTSR2/export2-clipped.jpg)
+![Banner Image](https://i.ibb.co/sRHf0vS/ETHDenver-blog-post-3.png)
 
 ## Talks & Workshops ✏️
 * **[Buidl Week - Cross-Chain EVM Calls with XCM on Moonbeam/Polkadot](https://events.ethdenver.com/eden23/attendease/networking/experience/26fe998b-c291-47f0-8a7b-42e1de99ddcf/d02df489-2db2-4917-8b53-e4b3547f7f87)** - ***Saturday, February 25 at 10:20am MST @Buidl Hub Mainstage***: In this talk, Stephen Shelton will discuss how Polkadot's interoperability protocol works at a high level. He'll go into more details of how this can be used to access Moonbeam's EVM from a different chain. This opens a new realm of possibilities, as contracts in Moonbeam can access app-specialized blockchains inside the Polkadot ecosystem. But also, these specialized chains can tap into Moonbeam's EVM and all the benefits smart contracts offer.
