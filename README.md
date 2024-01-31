@@ -63,7 +63,7 @@ Remember these are just suggestions to get you thinking - you can go an entirely
 General Message Passing (GMP) Protocols allow you to send messages to other chains, including messages that contain contract call data and can trigger actions on remote chains such as buying an NFT, making a swap, & much more. Moonbeam has integrated with a variety of GMP Protocols including [Axelar](https://axelar.network/), [Hyperlane](https://www.hyperlane.xyz/), [LayerZero](https://layerzero.network/), [Wormhole](https://docs.wormhole.com/wormhole/) & of course, Polkadot's native [XCM](https://wiki.polkadot.network/docs/learn-xcm). These protocols make it truly easy to call a contract on a remote chain - all you need to do is specify the destination chain, the contract address you want to interact with, and the payload (contract call data). It’s that simple. 
 
 
-#### Rewards:
+### Rewards:
 * 1st place: 6,000 USDC 
 * 2 Runner Ups: 2,000 USDC each
 
