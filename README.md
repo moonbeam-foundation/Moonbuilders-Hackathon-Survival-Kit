@@ -133,7 +133,7 @@ Jeremy from the Moonbeam Team has created an excellent series of videos explaini
 ## General Resources
 
 ### Building a web app as part of your DApp? Start here 
-* [ScaffoldEth](https://github.com/scaffold-eth/scaffold-eth) is a fantastic way to quickly spin up a React frontend that connects to your solidity smart contract. [Learn how to use ScaffoldEth with Moonbeam here](https://docs.moonbeam.network/builders/build/eth-api/dev-env/scaffold-eth/). 
+* [ScaffoldEth](https://github.com/scaffold-eth/scaffold-eth-2) is a fantastic way to quickly spin up a React frontend that connects to your solidity smart contract. [Learn how to use ScaffoldEth with Moonbeam here](https://docs.moonbeam.network/builders/build/eth-api/dev-env/scaffold-eth/). 
 * [Configure your preferred developer environment for Moonbeam](https://docs.moonbeam.network/builders/build/eth-api/dev-env/)
 * [Use JS libraries like Ethers.js or Web3.js to integrate smart contract functionality into your webapp](https://docs.moonbeam.network/builders/build/eth-api/libraries/)
 
