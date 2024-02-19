@@ -31,7 +31,7 @@ For example, suppose you're working on an NFT Marketplace that's currently deplo
 ### What are the UI / UX Requirements?
 Most submissions will be a web-based dApp, but you’re more than welcome to build on mobile as well. Browser-based dApps can ideally be deployed to a publicly accessible hosted URL (e.g. Vercel). If not deployed, that’s fine too, just indicate clear instructions in the ReadMe how to build and run the dApp locally. 
 
-The dApp should use any GMP provider supported by Moonbeam or Moonbase Alpha, including but not limited to Axelar, Wormhole, LayerZero, Hyperlane, or Polkadot’s native XCM to build the cross chain components of the dApp. 
+The dApp should use any GMP provider supported by Moonbeam or Moonbase Alpha, including but not limited to [Axelar](https://docs.moonbeam.network/builders/interoperability/protocols/axelar/), [Wormhole](https://docs.moonbeam.network/builders/interoperability/protocols/wormhole/), [LayerZero](https://docs.moonbeam.network/builders/interoperability/protocols/layerzero/), [Hyperlane](https://docs.moonbeam.network/builders/interoperability/protocols/hyperlane/), or [Polkadot’s native XCM](https://docs.moonbeam.network/builders/interoperability/xcm/overview/) to build the cross chain components of the dApp. 
 
 ## Can you give me some examples of cool stuff to build?
 
@@ -88,8 +88,8 @@ You can connect your wallet to the following Moonbeam networks automatically by 
 * You can make a swap for [testnet cross chain assets here](https://moonbeam-swap.netlify.app/#/swap).
 * If you need more tokens in bulk for testing purposes don't hesitate to reach out to us in [Discord](https://discord.gg/moonbeam).
 
-## Resources for Bounty 1 - Use a GMP Protocol to Remotely Call a Contract
-Moonbeam has integrated with a variety of GMP protocols including Axelar, Hyperlane, LayerZero, and Wormhole. Of course, you can also use Polkadot's native XCM to perform cross chain contract calls within the Polkadot ecosystem. It's recommended that you familiarize yourself with the GMP protocol you'd like to build with by following their tutorial. 
+## Building Cross Chain Resources
+Moonbeam has integrated with a variety of GMP protocols including Axelar, Hyperlane, LayerZero, and Wormhole. Of course, you can also use Polkadot's native XCM to perform cross chain contract calls within the Polkadot ecosystem. You can familiarize yourself with each respective GMP protocol by following their tutorial. 
 
 ### Building a Cross-Chain DApp with Axelar? Start Here
 * Make your first cross-chain contract call [in this step-by-step tutorial](https://moonbeam.network/blog/connected-contracts-axelar/)
@@ -100,7 +100,7 @@ Moonbeam has integrated with a variety of GMP protocols including Axelar, Hyperl
 ### Building a Cross-Chain DApp with Hyperlane? Start Here
 * Make your first cross-chain contract call [in this step-by-step tutorial](https://moonbeam.network/blog/connected-contracts-with-hyperlane/)
 * [Hyperlane Docs](https://docs.hyperlane.xyz/docs/introduction/readme)
-* [Send a cross chain message with Hyperlane](https://docs.hyperlane.xyz/docs/apis/messaging-api/send)
+* [Send a cross chain message with Hyperlane](https://docs.hyperlane.xyz/docs/reference/messaging/send)
 
 ### Building a Cross-Chain DApp with LayerZero? Start Here
 * Make your first cross-chain contract call [in this step-by-step tutorial](https://moonbeam.network/blog/connected-contracts-layerzero/)
