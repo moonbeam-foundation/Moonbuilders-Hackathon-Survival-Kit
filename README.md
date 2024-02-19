@@ -138,7 +138,7 @@ Jeremy from the Moonbeam Team has created an excellent series of videos explaini
 * [Use JS libraries like Ethers.js or Web3.js to integrate smart contract functionality into your webapp](https://docs.moonbeam.network/builders/build/eth-api/libraries/)
 
 ### Office Hours
-*To be announced*
+- Stop by the Moonbeam booth at any time! 
 
 ### Additional places to Get Help
 * [**Hackathons** Channel of the Moonbeam Discord](https://discord.gg/moonbeam)
