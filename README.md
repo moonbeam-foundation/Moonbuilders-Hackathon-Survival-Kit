@@ -5,11 +5,11 @@ Everything you need to get started building on Moonbeam, optimized for builders
 
 Welcome to EthDenver! For a full write-up of Moonbeam's participation in EthDenver, check out [this blog post](https://medium.com/moonbeam-network/lets-moonbeam-chill-at-ethdenver-23-789adca04849). 
 
-## Talks & Workshops ✏️
-*To be announced*
+## Talks, Workshops, and Events ✏️
+- We'd love to meet you at our [dAppy Hour on Friday night](https://www.eventbrite.com/e/dappy-hour-ethdenver-2024-with-moonbeam-tanssi-subsquid-tickets-790227791597). Take a break from coding and enjoy some great food, drinks, and company! 
  
 ## 🎥 Introducing Moonbeam's 2024 EthDenver Bounty
-In this [bounty introduction video](https://youtu.be/pufGqu1h8YU), Kevin reveals Moonbeam's 2023 Bounties including the challenge descriptions, expectations, and prizes.
+In this [bounty introduction video](https://youtu.be/i1tiljpVET0?si=abZR7yaE0wfNrJPV), Kevin reveals Moonbeam's 2023 Bounties including the challenge descriptions, expectations, and prizes.
 
 [![Introductory Video](https://i.ibb.co/y8x2kP7/You-Tube-Thumbnails-72.png)](https://youtu.be/i1tiljpVET0?si=abZR7yaE0wfNrJPV)
 
