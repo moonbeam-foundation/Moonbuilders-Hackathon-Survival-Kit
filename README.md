@@ -110,7 +110,7 @@ Moonbeam has integrated with a variety of GMP protocols including Axelar, Hyperl
 ### Building a Cross-Chain DApp with Wormhole? Start Here
 * Get started with Wormhole [in this step-by-step tutorial](https://moonbeam.network/blog/connected-contracts-wormhole/)
 * [Wormhole Docs](https://docs.wormhole.com/wormhole/)
-* [Wormhole xDapp Development Guide book](https://book.wormhole.com/)
+* [Hello Wormhole Tutorial](https://docs.wormhole.com/wormhole/quick-start/tutorials/hello-wormhole)
 
 ### Building a Cross-Chain DApp using Polkadot's XCM? Start here
 * [XCM Overview](https://docs.moonbeam.network/builders/interoperability/xcm/overview/)
@@ -122,13 +122,13 @@ Moonbeam has integrated with a variety of GMP protocols including Axelar, Hyperl
 ### Prefer Video Tutorials? 
 Jeremy from the Moonbeam Team has created an excellent series of videos explaining the ins and outs of all of the GMP protocols integrated with Moonbeam. 
 
-* [Architecture of Connected Contracts](https://drive.google.com/file/d/1PxaKgRxaQFbKpk49q-BAtFsbfdtm0LYI/view?usp=sharing)
-* [Architecture of Axelar's GMP Framework](https://drive.google.com/file/d/1Lez5fAatVxIyDIEWCIQNV_f3OVsiafsT/view?usp=sharing)
-* [Writing Connected Contracts with Axelar](https://drive.google.com/file/d/1-_-7QdeFXRkYqEYPDLk1s1f3qOMgJiGy/view?usp=sharing)
-* [Writing Connected Contracts with LayerZero](https://drive.google.com/file/d/1Ek6L8ffCvW0bLcNMUAtDAJFCGEhV95ZT/view?usp=sharing)
+* [Architecture of Connected Contracts](https://drive.google.com/file/d/1bAnwtB8d1xkas3-pUghfB6LqHBPIRp9J/view?usp=sharing)
+* [Architecture of Axelar's GMP Framework](https://drive.google.com/file/d/1Cb8aa1Zy0-wzn5TAmq9xhvQla6_iI40m/view?usp=sharing)
+* [Writing Connected Contracts with Axelar](https://drive.google.com/file/d/1Q7q995OvIeSDQ9A1_v3u7T38L_S8MS3E/view?usp=sharing)
+* [Writing Connected Contracts with LayerZero](https://drive.google.com/file/d/1prGQx2kF7XGRTd7Eci15Q5e_VJeRfAA5/view?usp=sharing)
 * [Building in the Interchain with Hyperlane](https://www.youtube.com/watch?v=0YYNOCrxSmY&ab_channel=MoonbeamNetwork)
-* [Wormhole Architecture](https://drive.google.com/file/d/1UW__Fgs825a-lKQ_KbdzveIJT1X-2iV_/view?usp=sharing)
-* [Writing Connected Contracts with Wormhole](https://drive.google.com/file/d/1hYAMnI9bYzfkFBqO3a9gxuz2aHX07rkl/view?usp=sharing)
+* [Wormhole Architecture](https://drive.google.com/file/d/1h1sxODN7MbE__zrp6jZ-qEM7ZIFOxr9Q/view?usp=sharing)
+* [Writing Connected Contracts with Wormhole](https://drive.google.com/file/d/1Q_kma_xlCV-6xZIaP0-A19lMWDMPt8AM/view?usp=sharing)
 
 ## General Resources
 
