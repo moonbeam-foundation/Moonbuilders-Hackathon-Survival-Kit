@@ -11,7 +11,7 @@ Welcome to EthDenver! For a full write-up of Moonbeam's participation in EthDenv
 ## 🎥 Introducing Moonbeam's 2024 EthDenver Bounty
 In this [bounty introduction video](https://youtu.be/pufGqu1h8YU), Kevin reveals Moonbeam's 2023 Bounties including the challenge descriptions, expectations, and prizes.
 
-[![Introductory Video](https://i.ibb.co/jbzqB8f/You-Tube-Thumbnails-47.png)](https://youtu.be/pufGqu1h8YU)
+[![Introductory Video](https://i.ibb.co/y8x2kP7/You-Tube-Thumbnails-72.png)](https://youtu.be/i1tiljpVET0?si=abZR7yaE0wfNrJPV)
 
 ## Moonbeam's 2024 Eth Denver Bounty: Cross-Chainify any dApp with Moonbeam
 - *$10,000 in Prizes, 3 winners*
