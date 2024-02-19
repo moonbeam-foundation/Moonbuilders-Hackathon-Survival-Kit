@@ -3,17 +3,19 @@ Everything you need to get started building on Moonbeam, optimized for builders
 
 ![Banner Image](https://i.ibb.co/1RJfyXV/header.jpg)
 
-Welcome to EthDenver! For a full write-up of Moonbeam's participation in EthDenver, check out [this blog post](https://medium.com/moonbeam-network/lets-moonbeam-chill-at-ethdenver-23-789adca04849). 
+Welcome to EthDenver 2024! We're excited you're here. Moonbeam is a EVM-compatible, smart contract platform for cross-chain connected dApps. In other words, you can deploy to Moonbeam and access features, users, and assets on many different chains. 
+
+Our flagship bounty this year encourages you to build cross-chain with Moonbeam. The bounty is open-ended and stackable with other EthDenver bounties. We can't wait to see what you build! 
 
 ## Talks, Workshops, and Events ✏️
-- We'd love to meet you at our [dAppy Hour on Friday night](https://www.eventbrite.com/e/dappy-hour-ethdenver-2024-with-moonbeam-tanssi-subsquid-tickets-790227791597). Take a break from coding and enjoy some great food, drinks, and company! 
+- We'd love to meet you at our [dAppy Hour on Friday night, March 1](https://www.eventbrite.com/e/dappy-hour-ethdenver-2024-with-moonbeam-tanssi-subsquid-tickets-790227791597). Take a break from coding and enjoy some great food, drinks, and company! 
  
 ## 🎥 Introducing Moonbeam's 2024 EthDenver Bounty
-In this [bounty introduction video](https://youtu.be/i1tiljpVET0?si=abZR7yaE0wfNrJPV), Kevin reveals Moonbeam's 2023 Bounties including the challenge descriptions, expectations, and prizes.
+In this [bounty introduction video](https://youtu.be/i1tiljpVET0?si=abZR7yaE0wfNrJPV), Kevin reveals Moonbeam's 2024 Bounties including the challenge descriptions, expectations, and prizes.
 
 [![Introductory Video](https://i.ibb.co/y8x2kP7/You-Tube-Thumbnails-72.png)](https://youtu.be/i1tiljpVET0?si=abZR7yaE0wfNrJPV)
 
-## Moonbeam's 2024 Eth Denver Bounty: Cross-Chainify any dApp with Moonbeam
+## Cross-Chainify any dApp with Moonbeam
 - *$10,000 in Prizes, 3 winners*
 - *TLDR: Take any open-source dApp (existing or new) and make it cross-chain with Moonbeam! Use General Message Passing (GMP) to trigger an on-chain action. Moonbeam can be either the chain sending the message or receiving the message.*
 
@@ -62,16 +64,9 @@ Remember these are just suggestions to get you thinking - you can go an entirely
 
 General Message Passing (GMP) Protocols allow you to send messages to other chains, including messages that contain contract call data and can trigger actions on remote chains such as buying an NFT, making a swap, & much more. Moonbeam has integrated with a variety of GMP Protocols including [Axelar](https://axelar.network/), [Hyperlane](https://www.hyperlane.xyz/), [LayerZero](https://layerzero.network/), [Wormhole](https://docs.wormhole.com/wormhole/) & of course, Polkadot's native [XCM](https://wiki.polkadot.network/docs/learn-xcm). These protocols make it truly easy to call a contract on a remote chain - all you need to do is specify the destination chain, the contract address you want to interact with, and the payload (contract call data). It’s that simple. 
 
-
 ### Rewards:
 * 1st place: 6,000 USDC 
 * 2 Runner Ups: 2,000 USDC each
-
-## 🎥 How the Bounties will be Judged + Tips for Success
-In this [Bounty Judging Video](https://youtu.be/NVMUfx8BF3I), Kevin explains the judging guidelines and tips for success. Sample projects are also discussed! 
-
-[![Judging Guidelines Video](https://i.ibb.co/3YKf8q3/34.png)](https://youtu.be/NVMUfx8BF3I)
-
 
 ## What's Moonbeam?
 Moonbeam is a smart contract platform for building cross-chain connected applications that can access users, assets, and services on any chain. By uniting functionality from Ethereum, Cosmos, Polkadot and more into a single platform, Moonbeam solves today's fragmented user experience — unlocking true interoperability and paving the way for the next generation of applications. The Moonbeam platform uses integrated cross-chain messaging to allow developers to create smart contracts that access services across many remote blockchains. This approach, plus Moonbeam's developer-friendly EVM platform, vast tool support, and modern Substrate architecture, creates the ideal development environment for building connected applications.
