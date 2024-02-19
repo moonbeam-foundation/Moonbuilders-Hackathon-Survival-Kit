@@ -3,7 +3,7 @@ Everything you need to get started building on Moonbeam, optimized for builders
 
 ![Banner Image](https://i.ibb.co/1RJfyXV/header.jpg)
 
-Welcome to EthDenver 2024! We're excited you're here. Moonbeam is a EVM-compatible, smart contract platform for cross-chain connected dApps. In other words, you can deploy to Moonbeam and access features, users, and assets on many different chains. 
+Welcome to EthDenver 2024! We're excited you're here. [Moonbeam](https://docs.moonbeam.network/) is a EVM-compatible, smart contract platform for cross-chain connected dApps. In other words, you can deploy to Moonbeam and access features, users, and assets on many different chains. 
 
 Our flagship bounty this year encourages you to build cross-chain with Moonbeam. The bounty is open-ended and stackable with other EthDenver bounties. We can't wait to see what you build! 
 
@@ -11,7 +11,7 @@ Our flagship bounty this year encourages you to build cross-chain with Moonbeam.
 - We'd love to meet you at our [dAppy Hour on Friday night, March 1](https://www.eventbrite.com/e/dappy-hour-ethdenver-2024-with-moonbeam-tanssi-subsquid-tickets-790227791597). Take a break from coding and enjoy some great food, drinks, and company! 
  
 ## 🎥 Introducing Moonbeam's 2024 EthDenver Bounty
-In this [bounty introduction video](https://youtu.be/i1tiljpVET0?si=abZR7yaE0wfNrJPV), Kevin reveals Moonbeam's 2024 Bounties including the challenge descriptions, expectations, and prizes.
+In this [bounty introduction video](https://youtu.be/i1tiljpVET0?si=abZR7yaE0wfNrJPV), Kevin reveals Moonbeam's 2024 Bounties including the challenge description, expectations, and prizes.
 
 [![Introductory Video](https://i.ibb.co/y8x2kP7/You-Tube-Thumbnails-72.png)](https://youtu.be/i1tiljpVET0?si=abZR7yaE0wfNrJPV)
 
@@ -49,7 +49,7 @@ TLDR: Make an NFT marketplace on Moonbeam that allows you to buy and sell NFTs o
 
 ### Build a Cross-Chain DeFi Helper
 
-Managing DeFi activities across multiple chains can be a cumbersome task. For a user to participate in DeFi different chains, they typically need to bridge funds, acquire the gas token of the destination chain, deposit/stake funds, and of course, claim rewards. Moonbeam is uniquely positioned as a hub for cross-chain connectivity via a variety of GMP protocols and that means you can take part in DeFi on many different chains without ever leaving Moonbeam. How does that work? The answer lies in Moonbeam’s extensive integrations with a variety of GMP protocols, including Axelar, [Axelar](https://docs.moonbeam.network/builders/interoperability/protocols/axelar/), [Hyperlane](https://docs.moonbeam.network/builders/interoperability/protocols/hyperlane/), [LayerZero](https://docs.moonbeam.network/builders/interoperability/protocols/layerzero/), [Wormhole](https://docs.moonbeam.network/builders/interoperability/protocols/wormhole/), and of course, [Polkadot's native XCM](https://docs.moonbeam.network/builders/interoperability/xcm/overview/)
+Managing DeFi activities across multiple chains can be a cumbersome task. For a user to participate in DeFi different chains, they typically need to bridge funds, acquire the gas token of the destination chain, deposit/stake funds, and of course, claim rewards. Moonbeam is uniquely positioned as a hub for cross-chain connectivity via a variety of GMP protocols and that means you can take part in DeFi on many different chains without ever leaving Moonbeam. How does that work? The answer lies in Moonbeam’s extensive integrations with a variety of GMP protocols, including [Axelar](https://docs.moonbeam.network/builders/interoperability/protocols/axelar/), [Hyperlane](https://docs.moonbeam.network/builders/interoperability/protocols/hyperlane/), [LayerZero](https://docs.moonbeam.network/builders/interoperability/protocols/layerzero/), [Wormhole](https://docs.moonbeam.network/builders/interoperability/protocols/wormhole/), and of course, [Polkadot's native XCM](https://docs.moonbeam.network/builders/interoperability/xcm/overview/)
 
 These protocols make it truly easy to call a contract on a remote chain - all you need to do is specify the destination chain, the contract address you want to interact with, and the payload (contract call data). It’s that simple.
 
@@ -69,7 +69,7 @@ General Message Passing (GMP) Protocols allow you to send messages to other chai
 * 2 Runner Ups: 2,000 USDC each
 
 ## What's Moonbeam?
-Moonbeam is a smart contract platform for building cross-chain connected applications that can access users, assets, and services on any chain. By uniting functionality from Ethereum, Cosmos, Polkadot and more into a single platform, Moonbeam solves today's fragmented user experience — unlocking true interoperability and paving the way for the next generation of applications. The Moonbeam platform uses integrated cross-chain messaging to allow developers to create smart contracts that access services across many remote blockchains. This approach, plus Moonbeam's developer-friendly EVM platform, vast tool support, and modern Substrate architecture, creates the ideal development environment for building connected applications.
+[Moonbeam](https://docs.moonbeam.network/) is a smart contract platform for building cross-chain connected applications that can access users, assets, and services on any chain. By uniting functionality from Ethereum, Cosmos, Polkadot and more into a single platform, Moonbeam solves today's fragmented user experience — unlocking true interoperability and paving the way for the next generation of applications. The Moonbeam platform uses integrated cross-chain messaging to allow developers to create smart contracts that access services across many remote blockchains. This approach, plus Moonbeam's developer-friendly EVM platform, vast tool support, and modern Substrate architecture, creates the ideal development environment for building connected applications.
 
 ## What's Polkadot?
 [Polkadot](https://polkadot.network/) unites and secures a growing ecosystem of specialized blockchains called parachains. Apps and services on Polkadot can securely communicate across chains, forming the basis for a truly interoperable decentralized web. Moonbeam is a Polkadot parachain. 
