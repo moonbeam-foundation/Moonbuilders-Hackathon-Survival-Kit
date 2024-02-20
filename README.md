@@ -9,7 +9,9 @@ Our flagship bounty this year encourages you to build cross-chain with Moonbeam.
 
 ## Talks, Workshops, and Events ✏️
 - We'd love to meet you at our [dAppy Hour on Friday night, March 1](https://www.eventbrite.com/e/dappy-hour-ethdenver-2024-with-moonbeam-tanssi-subsquid-tickets-790227791597). Take a break from coding and enjoy some great food, drinks, and company!
-- Say Hi at the Moonbeam Booth! We'd love to meet you. The Moonbeam Booth is located at spot 201 - Devtopia. 
+- Say Hi at the Moonbeam Booth! We'd love to meet you. The Moonbeam Booth is located at spot 201 - Devtopia.
+
+![Say Hello](https://i.ibb.co/w47yNdK/image4.png)
  
 ## 🎥 Introducing Moonbeam's 2024 EthDenver Bounty
 In this [bounty introduction video](https://youtu.be/i1tiljpVET0?si=abZR7yaE0wfNrJPV), Kevin reveals Moonbeam's 2024 Bounties including the challenge description, expectations, and prizes.
