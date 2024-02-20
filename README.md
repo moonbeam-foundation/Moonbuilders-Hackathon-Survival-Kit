@@ -8,7 +8,8 @@ Welcome to EthDenver 2024! We're excited you're here. [Moonbeam](https://docs.mo
 Our flagship bounty this year encourages you to build cross-chain with Moonbeam. The bounty is open-ended and stackable with other EthDenver bounties. We can't wait to see what you build! 
 
 ## Talks, Workshops, and Events ✏️
-- We'd love to meet you at our [dAppy Hour on Friday night, March 1](https://www.eventbrite.com/e/dappy-hour-ethdenver-2024-with-moonbeam-tanssi-subsquid-tickets-790227791597). Take a break from coding and enjoy some great food, drinks, and company! 
+- We'd love to meet you at our [dAppy Hour on Friday night, March 1](https://www.eventbrite.com/e/dappy-hour-ethdenver-2024-with-moonbeam-tanssi-subsquid-tickets-790227791597). Take a break from coding and enjoy some great food, drinks, and company!
+- Say Hi at the Moonbeam Booth! We'd love to meet you. The Moonbeam Booth is located at spot 201 - Devtopia. 
  
 ## 🎥 Introducing Moonbeam's 2024 EthDenver Bounty
 In this [bounty introduction video](https://youtu.be/i1tiljpVET0?si=abZR7yaE0wfNrJPV), Kevin reveals Moonbeam's 2024 Bounties including the challenge description, expectations, and prizes.
@@ -138,7 +139,7 @@ Jeremy from the Moonbeam Team has created an excellent series of videos explaini
 * [Use JS libraries like Ethers.js or Web3.js to integrate smart contract functionality into your webapp](https://docs.moonbeam.network/builders/build/eth-api/libraries/)
 
 ### Office Hours
-- Stop by the Moonbeam booth at any time! 
+- Stop by the Moonbeam booth at any time! The Moonbeam Booth is located at space 201 in Devtopia. 
 
 ### Additional places to Get Help
 * [**Hackathons** Channel of the Moonbeam Discord](https://discord.gg/moonbeam)
